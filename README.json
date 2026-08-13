@@ -1,0 +1,1369 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TIA Toolbox",
+          "description": "Computational pathology toolbox that provides an end-to-end API for pathology image analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:04:43Z",
+            "owner": "TissueImageAnalytics",
+            "repo": "tiatoolbox",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HistomicsTK",
+          "description": "Toolkit for the analysis of digital pathology images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:34:19Z",
+            "owner": "DigitalSlideArchive",
+            "repo": "HistomicsTK",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HistoQC",
+          "description": "Quality control tools for digital pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T19:23:26Z",
+            "owner": "choosehappy",
+            "repo": "HistoQC",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstanSeg",
+          "description": "Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T23:11:45Z",
+            "owner": "instanseg",
+            "repo": "instanseg",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrandQC",
+          "description": "A comprehensive solution to quality control problem in digital pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-27T12:24:00Z",
+            "owner": "cpath-ukk",
+            "repo": "grandqc",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyHIST",
+          "description": "Histological image segmentation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-02T09:38:08Z",
+            "owner": "manuel-munoz-aguirre",
+            "repo": "PyHIST",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyslide",
+          "description": "Digital pathology WSI analysis toolbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-02T16:10:05Z",
+            "owner": "PingjunChen",
+            "repo": "pyslide",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PathProfiler",
+          "description": "Quality assessment of histopathology WSI cohorts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-04T18:50:26Z",
+            "owner": "MaryamHaghighat",
+            "repo": "PathProfiler",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatchSorter",
+          "description": "A tool for rapidly labeling objects using deep learning feature embedding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:12:39Z",
+            "owner": "choosehappy",
+            "repo": "PatchSorter",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CellPilot",
+          "description": "A unified approach to automatic and interactive segmentation in histopathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-03T10:34:28Z",
+            "owner": "philippendres",
+            "repo": "CellPilot",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Image Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tifffile",
+          "description": "Read and write TIFF-like files using in bioimaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T02:29:37Z",
+            "owner": "cgohlke",
+            "repo": "tifffile",
+            "stars": 662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuCIM",
+          "description": "NVIDIA's accelerated computer vision and image processing software library for multidimensional images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T21:37:42Z",
+            "owner": "rapidsai",
+            "repo": "cucim",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bio-Formats",
+          "description": "Java software tool for reading and writing microscopy image using standardized, open formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T10:47:41Z",
+            "owner": "ome",
+            "repo": "bioformats",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WholeSlideData",
+          "description": "Batch iterator that enables fast, efficient and easy patch sampling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-08T15:22:13Z",
+            "owner": "DIAGNijmegen",
+            "repo": "pathology-whole-slide-data",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "compay-syntax",
+          "description": "Tissue mask and tiling pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T06:22:15Z",
+            "owner": "jgamper",
+            "repo": "compay-syntax",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NGFF-Converter",
+          "description": "GUI application for conversion of bioimage formats into OME-NGFF or OME-TIFF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-25T13:50:58Z",
+            "owner": "glencoesoftware",
+            "repo": "NGFF-Converter",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svg2svs",
+          "description": "Generate checkerboard and build multi-layer pyramidal SVS files from SVG images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-05-07T07:26:56Z",
+            "owner": "Ellogon",
+            "repo": "svg2svs",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Image IO"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trident",
+          "description": "Toolkit for large-scale WSI processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:58:19Z",
+            "owner": "mahmoodlab",
+            "repo": "TRIDENT",
+            "stars": 616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PathML",
+          "description": "Tools for computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T20:14:18Z",
+            "owner": "Dana-Farber-AIOS",
+            "repo": "pathml",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "histocartography",
+          "description": "Library designed to facilitate the development of graph-based computational pathology pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-23T15:08:07Z",
+            "owner": "BiomedSciAI",
+            "repo": "histocartography",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eva",
+          "description": "Evaluation framework for oncology foundation models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T13:53:48Z",
+            "owner": "kaiko-ai",
+            "repo": "eva",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MHIM-MIL",
+          "description": "Multiple instance learning framework with masked hard instance mining for WSI classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-07T08:25:54Z",
+            "owner": "DearCaat",
+            "repo": "MHIM-MIL",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuclei.io",
+          "description": "Human-in-the-loop active learning framework for pathology image analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-18T00:17:07Z",
+            "owner": "huangzhii",
+            "repo": "nuclei.io",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENACT",
+          "description": "End-to-end analysis and cell type annotation for Visium HD slides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T16:49:37Z",
+            "owner": "Sanofi-Public",
+            "repo": "enact-pipeline",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DLUP",
+          "description": "Deep learning utilities for pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T16:16:16Z",
+            "owner": "NKI-AI",
+            "repo": "dlup",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlashDeconv",
+          "description": "High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T12:55:30Z",
+            "owner": "cafferychen777",
+            "repo": "flashdeconv",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LongViT",
+          "description": "Vision Transformer that can process gigapixel images in an end-to-end manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-11T13:58:57Z",
+            "owner": "microsoft",
+            "repo": "torchscale",
+            "stars": 3137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLAM",
+          "description": "Data-efficient and weakly supervised computational pathology on WSI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-14T19:42:01Z",
+            "owner": "mahmoodlab",
+            "repo": "CLAM",
+            "stars": 1724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarDist",
+          "description": "Object detection with star-convex shapes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-14T16:16:18Z",
+            "owner": "stardist",
+            "repo": "stardist",
+            "stars": 1251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HoVer-Net",
+          "description": "Simultaneous segmentation and classification of nuclei in multi-tissue histology images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-27T11:42:36Z",
+            "owner": "vqdang",
+            "repo": "hover_net",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransMIL",
+          "description": "Transformer based correlated multiple instance learning for WSI classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T12:35:09Z",
+            "owner": "szc19990412",
+            "repo": "TransMIL",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CellViT",
+          "description": "Vision transformers for precise cell segmentation and classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T06:10:25Z",
+            "owner": "TIO-IKIM",
+            "repo": "CellViT",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StainTools",
+          "description": "Tools for tissue image stain normalisation and augmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-05-08T15:32:46Z",
+            "owner": "Peter554",
+            "repo": "StainTools",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepLIIF",
+          "description": "Deep-learning inferred multiplex immunofluorescence for immunohistochemical image quantification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T19:24:23Z",
+            "owner": "nadeemlab",
+            "repo": "DeepLIIF",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCAT",
+          "description": "Multimodal co-attention transformer for survival prediction in gigapixel WSIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-11T20:42:18Z",
+            "owner": "mahmoodlab",
+            "repo": "MCAT",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torchstain",
+          "description": "Stain normalization transformations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T14:55:02Z",
+            "owner": "EIDOSLAB",
+            "repo": "torchstain",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patch-GCN",
+          "description": "WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-14T03:08:42Z",
+            "owner": "mahmoodlab",
+            "repo": "Patch-GCN",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PANTHER",
+          "description": "Morphological prototyping for unsupervised slide representation learning in computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T21:14:46Z",
+            "owner": "mahmoodlab",
+            "repo": "PANTHER",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCGA segmentation",
+          "description": "Weakly supervised multiple instance learning histopathological tumor segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-05T16:56:48Z",
+            "owner": "MarvinLer",
+            "repo": "tcga_segmentation",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACMIL",
+          "description": "WSI classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T02:23:20Z",
+            "owner": "dazhangyu123",
+            "repo": "ACMIL",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMP",
+          "description": "Multimodal prototyping for cancer survival prediction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-22T21:18:44Z",
+            "owner": "mahmoodlab",
+            "repo": "MMP",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TANGLE",
+          "description": "Transcriptomics-guided slide representation learning in computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-15T14:24:20Z",
+            "owner": "mahmoodlab",
+            "repo": "TANGLE",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cell-DETR",
+          "description": "Attention-based transformers for instance segmentation of cells in microstructures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-28T00:36:03Z",
+            "owner": "ChristophReich1996",
+            "repo": "Cell-DETR",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerberus",
+          "description": "Multi-task learning enables simultaneous histology image segmentation and classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T19:43:47Z",
+            "owner": "TissueImageAnalytics",
+            "repo": "cerberus",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HistoGPT",
+          "description": "Generating highly accurate histopathology reports from whole slide images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-04T19:02:46Z",
+            "owner": "marrlab",
+            "repo": "HistoGPT",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HistoSegNet",
+          "description": "Semantic segmentation of histological tissue type in WSIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-01-15T23:18:14Z",
+            "owner": "lyndonchan",
+            "repo": "hsn_v1",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEPH",
+          "description": "BEiT-based model pre-training on WSIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-24T13:35:07Z",
+            "owner": "Zhcyoung",
+            "repo": "BEPH",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StainGAN",
+          "description": "Stain style transfer for digital histological images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-04T21:38:30Z",
+            "owner": "xtarx",
+            "repo": "StainGAN",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stainlib",
+          "description": "Augmentation & normalization of H&E images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-09-12T14:58:42Z",
+            "owner": "sebastianffx",
+            "repo": "stainlib",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSP",
+          "description": "Self-supervised driven consistency training for annotation efficient histopathology image analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-05T01:21:56Z",
+            "owner": "srinidhiPY",
+            "repo": "SSL_CR_Histo",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snuffy",
+          "description": "Efficient WSI classifier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-24T13:02:37Z",
+            "owner": "jafarinia",
+            "repo": "snuffy",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DT-MIL",
+          "description": "Deformable transformer for multi-instance learning on histopathological image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-26T08:08:08Z",
+            "owner": "yfzon",
+            "repo": "DT-MIL",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiffInfinite",
+          "description": "Large mask-image synthesis via parallel random patch diffusion in histopathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-30T15:31:48Z",
+            "owner": "marcoaversa",
+            "repo": "diffinfinite",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSINet",
+          "description": "Deep learning model for the prediction of microsatellite instability in colorectal cancer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-11T01:06:52Z",
+            "owner": "rikiyay",
+            "repo": "MSINet",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMMN",
+          "description": "Deep Multi-Magnification Network for multi-class tissue segmentation of WSI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-15T07:39:36Z",
+            "owner": "MSKCC-Computational-Pathology",
+            "repo": "DMMN",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrOoDo",
+          "description": "Framework for out of distribution detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-15T15:14:10Z",
+            "owner": "MECLabTUDA",
+            "repo": "FrOoDo",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparseConvMIL",
+          "description": "Sparse convolutional context-aware multiple instance learning for WSI classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-11T07:21:14Z",
+            "owner": "MarvinLer",
+            "repo": "SparseConvMIL",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HMIL",
+          "description": "Hierarchical multi-instance learning for fine-grained WSI classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T08:43:36Z",
+            "owner": "ChengJin-git",
+            "repo": "HMIL",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fseg",
+          "description": "Unsupervised semantic segmentation for pathology by factorizing foundation model features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-21T11:58:31Z",
+            "owner": "deepathology",
+            "repo": "fseg",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Model"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UNI",
+          "description": "General-purpose foundation model for computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-26T04:45:41Z",
+            "owner": "mahmoodlab",
+            "repo": "UNI",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prov-GigaPath",
+          "description": "A whole-slide foundation model for digital pathology from real-world data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:33:17Z",
+            "owner": "prov-gigapath",
+            "repo": "prov-gigapath",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HIPT",
+          "description": "Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-19T15:50:10Z",
+            "owner": "mahmoodlab",
+            "repo": "HIPT",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CONCH",
+          "description": "Vision-language foundation model for computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-26T04:44:28Z",
+            "owner": "mahmoodlab",
+            "repo": "CONCH",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TITAN",
+          "description": "Multimodal whole slide foundation model for pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-13T02:04:53Z",
+            "owner": "mahmoodlab",
+            "repo": "TITAN",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransPath",
+          "description": "Transformer-based unsupervised contrastive learning for histopathological image classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-29T16:46:56Z",
+            "owner": "Xiyue-Wang",
+            "repo": "TransPath",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MUSK",
+          "description": "A vision-language foundation model for precision oncology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T22:00:17Z",
+            "owner": "lilab-stanford",
+            "repo": "MUSK",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PathoDuet",
+          "description": "Foundation models for pathological slide analysis of H&E and IHC stains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-24T09:18:50Z",
+            "owner": "openmedlab",
+            "repo": "PathoDuet",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phikon",
+          "description": "Scaling self-supervised learning for histopathology with masked image modeling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-29T22:35:32Z",
+            "owner": "owkin",
+            "repo": "HistoSSLscaling",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H-optimus",
+          "description": "Foundation model for histology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-21T09:43:41Z",
+            "owner": "bioptimus",
+            "repo": "releases",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hibou",
+          "description": "A family of foundational vision transformers for pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-23T15:17:21Z",
+            "owner": "histai",
+            "repo": "hibou",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KEEP",
+          "description": "A Knowledge-enhanced pathology vision-language foundation model for cancer diagnosis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T02:22:33Z",
+            "owner": "MAGIC-AI4Med",
+            "repo": "KEEP",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIM4Path",
+          "description": "Self-supervised vision mamba for WSIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-23T14:36:00Z",
+            "owner": "AtlasAnalyticsLab",
+            "repo": "Vim4Path",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROAM",
+          "description": "A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular state revelation of gliomas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T14:33:55Z",
+            "owner": "whiteyunjie",
+            "repo": "ROAM",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Foundation Model"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "slim",
+          "description": "Interoperable web-based slide microscopy viewer and annotation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:26:54Z",
+            "owner": "ImagingDataCommons",
+            "repo": "slim",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickAnnotator",
+          "description": "Model assisted tool for rapid annotation of WSIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:39:18Z",
+            "owner": "choosehappy",
+            "repo": "QuickAnnotator",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HistomicsUI",
+          "description": "Web interface to visualize WSI and manage annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T20:27:41Z",
+            "owner": "DigitalSlideArchive",
+            "repo": "HistomicsUI",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DigiPathAI",
+          "description": "Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T22:35:45Z",
+            "owner": "haranrk",
+            "repo": "DigiPathAI",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Viewer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PCAM",
+          "description": "PatchCamelyon provides a new benchmark for machine learning models akin to CIFAR-10 and MNIST.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T14:06:01Z",
+            "owner": "basveeling",
+            "repo": "pcam",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HEST",
+          "description": "Bringing spatial transcriptomics and histopathology together.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-16T07:48:46Z",
+            "owner": "mahmoodlab",
+            "repo": "HEST",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LC25000",
+          "description": "Lung and colon cancer histopathological image dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-09-04T11:32:32Z",
+            "owner": "tampapath",
+            "repo": "lung_colon_image_set",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CryoNuSeg",
+          "description": "Nuclei segmentation of cryosectioned H&E-stained histological images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2023-02-08T15:22:32Z",
+            "owner": "masih4",
+            "repo": "CryoNuSeg",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2T",
+          "description": "Handcrafted Histological Transformer for unsupervised representation of WSIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-16T15:07:21Z",
+            "owner": "vqdang",
+            "repo": "H2T",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UNITOPATHO",
+          "description": "A labeled histopathological dataset for colorectal polyps classification and adenoma dysplasia grading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-18T14:53:57Z",
+            "owner": "EIDOSLAB",
+            "repo": "UNITOPATHO",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UNMaSk",
+          "description": "Unmasking the immune microecology of ductal carcinoma in situ.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-22T03:41:53Z",
+            "owner": "pathdata",
+            "repo": "UNMaSk",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MS-SCC",
+          "description": "Multi-scanner squamous cell carcinoma dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-22T08:55:22Z",
+            "owner": "DeepMicroscopy",
+            "repo": "MultiScanner_SCC",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Publications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chen2022self",
+          "description": "Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-09T18:44:16Z",
+            "owner": "Richarizardd",
+            "repo": "Self-Supervised-ViT-Path",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wolflein2023good",
+          "description": "A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-17T21:32:11Z",
+            "owner": "georg-wolflein",
+            "repo": "good-features",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breen2024ovarian",
+          "description": "Histopathology foundation models enable accurate ovarian cancer subtype classification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-31T12:21:35Z",
+            "owner": "scjjb",
+            "repo": "Ovarian_Features",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaidya2024demographic",
+          "description": "Demographic bias in misdiagnosis by computational pathology models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-29T14:45:46Z",
+            "owner": "mahmoodlab",
+            "repo": "CPATH_demographics",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matous2024latent",
+          "description": "Are the latent representations of foundation models for pathology invarient to rotation?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-17T16:25:44Z",
+            "owner": "MatousE",
+            "repo": "rot-invariance-analysis",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "stettler2022datasets",
+          "description": "Resources of histopathology datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-06T20:42:26Z",
+            "owner": "maduc7",
+            "repo": "Histopathology-Datasets",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jahanifar2023domain",
+          "description": "Awesome domain generalization for computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-07T16:19:07Z",
+            "owner": "mostafajahanifar",
+            "repo": "awesome-dg-cpath",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Repositories"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:02.101Z",
+    "original_repository": "open-pathology/awesome-pathology",
+    "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
+    "enhanced_repository": "enhansome/enhansome-pathology",
+    "enhanced_repository_description": null,
+    "title": "Awesome Digital and Computational Pathology with stars"
+  }
+}

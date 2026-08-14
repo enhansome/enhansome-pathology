@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:44:21Z",
+            "last_commit": "2026-08-13T22:31:19Z",
             "owner": "TissueImageAnalytics",
             "repo": "tiatoolbox",
             "stars": 545
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:32:59Z",
+            "last_commit": "2026-08-13T13:14:49Z",
             "owner": "DigitalSlideArchive",
             "repo": "HistomicsTK",
             "stars": 483
@@ -61,7 +61,7 @@
             "last_commit": "2026-07-30T23:11:45Z",
             "owner": "instanseg",
             "repo": "instanseg",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -280,7 +280,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-17T20:14:18Z",
+            "last_commit": "2026-08-14T02:49:27Z",
             "owner": "Dana-Farber-AIOS",
             "repo": "pathml",
             "stars": 461
@@ -499,7 +499,7 @@
             "last_commit": "2026-07-17T19:24:23Z",
             "owner": "nadeemlab",
             "repo": "DeepLIIF",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -869,7 +869,7 @@
             "last_commit": "2025-03-26T04:45:41Z",
             "owner": "mahmoodlab",
             "repo": "UNI",
-            "stars": 765
+            "stars": 766
           }
         },
         {
@@ -911,7 +911,7 @@
             "last_commit": "2025-03-26T04:44:28Z",
             "owner": "mahmoodlab",
             "repo": "CONCH",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:26:54Z",
+            "last_commit": "2026-08-14T00:20:56Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
@@ -1082,7 +1082,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T20:39:18Z",
+            "last_commit": "2026-08-13T22:39:55Z",
             "owner": "choosehappy",
             "repo": "QuickAnnotator",
             "stars": 91
@@ -1138,7 +1138,7 @@
             "last_commit": "2024-01-31T14:06:01Z",
             "owner": "basveeling",
             "repo": "pcam",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:22:31.094Z",
+    "last_updated": "2026-08-14T09:18:13.807Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
     "enhanced_repository": "enhansome/enhansome-pathology",

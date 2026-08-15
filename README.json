@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:31:19Z",
+            "last_commit": "2026-08-14T15:49:51Z",
             "owner": "TissueImageAnalytics",
             "repo": "tiatoolbox",
-            "stars": 545
+            "stars": 543
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-05T21:37:42Z",
+            "last_commit": "2026-08-14T16:05:26Z",
             "owner": "rapidsai",
             "repo": "cucim",
             "stars": 467
@@ -415,7 +415,7 @@
             "last_commit": "2025-04-14T19:42:01Z",
             "owner": "mahmoodlab",
             "repo": "CLAM",
-            "stars": 1724
+            "stars": 1725
           }
         },
         {
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:20:56Z",
+            "last_commit": "2026-08-14T21:18:26Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
@@ -1351,7 +1351,7 @@
             "last_commit": "2024-11-07T16:19:07Z",
             "owner": "mostafajahanifar",
             "repo": "awesome-dg-cpath",
-            "stars": 24
+            "stars": 25
           }
         }
       ],
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:18:13.807Z",
+    "last_updated": "2026-08-15T08:42:56.544Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
     "enhanced_repository": "enhansome/enhansome-pathology",

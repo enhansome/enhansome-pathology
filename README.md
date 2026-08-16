@@ -41,7 +41,7 @@
 
 ### Image IO
 
-* [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 662 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Read and write TIFF-like files using in bioimaging.
+* [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 662 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Read and write TIFF-like files using in bioimaging.
 * [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 467 | 🐛 157 | 🌐 Jupyter Notebook | 📅 2026-08-14 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 * [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 425 | 🐛 174 | 🌐 Java | 📅 2026-08-13 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
@@ -53,7 +53,7 @@
 
 ### Machine Learning
 
-* [Trident](https://github.com/mahmoodlab/TRIDENT/) ⭐ 616 | 🐛 33 | 🌐 Python | 📅 2026-08-13 - Toolkit for large-scale WSI processing.
+* [Trident](https://github.com/mahmoodlab/TRIDENT/) ⭐ 619 | 🐛 36 | 🌐 Python | 📅 2026-08-13 - Toolkit for large-scale WSI processing.
 * [PathML](https://github.com/Dana-Farber-AIOS/pathml/) ⭐ 461 | 🐛 52 | 🌐 Python | 📅 2026-08-14 - Tools for computational pathology.
 * [histocartography](https://github.com/BiomedSciAI/histocartography/) ⭐ 273 | 🐛 23 | 🌐 Python | 📅 2023-12-23 - Library designed to facilitate the development of graph-based computational pathology pipelines.
 * [eva](https://github.com/kaiko-ai/eva/) ⭐ 170 | 🐛 31 | 🌐 Python | 📅 2026-08-05 - Evaluation framework for oncology foundation models.
@@ -61,12 +61,12 @@
 * [nuclei.io](https://github.com/huangzhii/nuclei.io/) ⭐ 89 | 🐛 10 | 🌐 Python | 📅 2025-05-18 - Human-in-the-loop active learning framework for pathology image analysis.
 * [ENACT](https://github.com/Sanofi-Public/enact-pipeline/) ⭐ 82 | 🐛 10 | 🌐 Python | 📅 2026-02-10 - End-to-end analysis and cell type annotation for Visium HD slides.
 * [DLUP](https://github.com/nki-ai/dlup/) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2026-08-09 - Deep learning utilities for pathology.
-* [FlashDeconv](https://github.com/cafferychen777/flashdeconv/) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-06-30 - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
+* [FlashDeconv](https://github.com/cafferychen777/flashdeconv/) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-06-30 - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
 * [Slideflow](https://slideflow.dev/) - Python package that provides a unified API for building and testing deep learning models for histopathology.
 
 ### Model
 
-* [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⭐ 3,137 | 🐛 39 | 🌐 Python | 📅 2024-04-11 - Vision Transformer that can process gigapixel images in an end-to-end manner.
+* [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⭐ 3,138 | 🐛 39 | 🌐 Python | 📅 2024-04-11 - Vision Transformer that can process gigapixel images in an end-to-end manner.
 * [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,725 | 🐛 49 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
 * [StarDist](https://github.com/stardist/stardist/) ⭐ 1,251 | 🐛 69 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
 * [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 735 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
@@ -81,7 +81,7 @@
 * [TCGA segmentation](https://github.com/MarvinLer/tcga_segmentation/) ⭐ 142 | 🐛 5 | 🌐 Python | 📅 2021-08-05 - Weakly supervised multiple instance learning histopathological tumor segmentation.
 * [ACMIL](https://github.com/dazhangyu123/ACMIL/) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2025-04-28 - WSI classification.
 * [MMP](https://github.com/mahmoodlab/MMP/) ⭐ 120 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-22 - Multimodal prototyping for cancer survival prediction.
-* [TANGLE](https://github.com/mahmoodlab/TANGLE/) ⭐ 116 | 🐛 6 | 🌐 Python | 📅 2024-10-15 - Transcriptomics-guided slide representation learning in computational pathology.
+* [TANGLE](https://github.com/mahmoodlab/TANGLE/) ⭐ 117 | 🐛 6 | 🌐 Python | 📅 2024-10-15 - Transcriptomics-guided slide representation learning in computational pathology.
 * [Cell-DETR](https://github.com/ChristophReich1996/Cell-DETR/) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2022-03-28 - Attention-based transformers for instance segmentation of cells in microstructures.
 * [Cerberus](https://github.com/TissueImageAnalytics/cerberus/) ⭐ 103 | 🐛 6 | 🌐 Python | 📅 2024-11-27 - Multi-task learning enables simultaneous histology image segmentation and classification.
 * [HistoGPT](https://github.com/marrlab/HistoGPT/) ⭐ 100 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-09-04 - Generating highly accurate histopathology reports from whole slide images.
@@ -106,7 +106,7 @@
 * [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) ⭐ 630 | 🐛 74 | 🌐 Python | 📅 2026-08-07 - A whole-slide foundation model for digital pathology from real-world data.
 * [HIPT](https://github.com/mahmoodlab/HIPT/) ⭐ 621 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2024-03-19 - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 * [CONCH](https://github.com/mahmoodlab/CONCH/) ⭐ 523 | 🐛 16 | 🌐 Python | 📅 2025-03-26 - Vision-language foundation model for computational pathology.
-* [TITAN](https://github.com/mahmoodlab/TITAN/) ⭐ 361 | 🐛 3 | 🌐 Python | 📅 2025-12-13 - Multimodal whole slide foundation model for pathology.
+* [TITAN](https://github.com/mahmoodlab/TITAN/) ⭐ 362 | 🐛 3 | 🌐 Python | 📅 2025-12-13 - Multimodal whole slide foundation model for pathology.
 * [TransPath](https://github.com/Xiyue-Wang/TransPath/) ⭐ 360 | 🐛 40 | 🌐 Python | 📅 2025-03-29 - Transformer-based unsupervised contrastive learning for histopathological image classification.
 * [MUSK](https://github.com/lilab-stanford/MUSK/) ⭐ 241 | 🐛 4 | 🌐 Python | 📅 2025-10-26 - A vision-language foundation model for precision oncology.
 * [PathoDuet](https://github.com/openmedlab/PathoDuet/) ⭐ 225 | 🐛 8 | 🌐 Python | 📅 2024-06-24 - Foundation models for pathological slide analysis of H\&E and IHC stains.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

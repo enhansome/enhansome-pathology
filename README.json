@@ -266,7 +266,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:11:56Z",
+            "last_commit": "2026-08-16T12:24:36Z",
             "owner": "mahmoodlab",
             "repo": "TRIDENT",
             "stars": 619
@@ -415,7 +415,7 @@
             "last_commit": "2025-04-14T19:42:01Z",
             "owner": "mahmoodlab",
             "repo": "CLAM",
-            "stars": 1725
+            "stars": 1724
           }
         },
         {
@@ -443,7 +443,7 @@
             "last_commit": "2023-10-27T11:42:36Z",
             "owner": "vqdang",
             "repo": "hover_net",
-            "stars": 735
+            "stars": 736
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2024-05-03T12:35:09Z",
             "owner": "szc19990412",
             "repo": "TransMIL",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-07-17T19:24:23Z",
             "owner": "nadeemlab",
             "repo": "DeepLIIF",
-            "stars": 258
+            "stars": 259
           }
         },
         {
@@ -1023,7 +1023,7 @@
             "last_commit": "2026-04-17T02:22:33Z",
             "owner": "MAGIC-AI4Med",
             "repo": "KEEP",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-04-16T07:48:46Z",
             "owner": "mahmoodlab",
             "repo": "HEST",
-            "stars": 429
+            "stars": 428
           }
         },
         {
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:44:45.676Z",
+    "last_updated": "2026-08-17T08:57:48.541Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
     "enhanced_repository": "enhansome/enhansome-pathology",

@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T15:49:51Z",
+            "last_commit": "2026-08-18T08:49:39Z",
             "owner": "TissueImageAnalytics",
             "repo": "tiatoolbox",
-            "stars": 543
+            "stars": 544
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-13T13:14:49Z",
             "owner": "DigitalSlideArchive",
             "repo": "HistomicsTK",
-            "stars": 483
+            "stars": 484
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-01-04T18:50:26Z",
             "owner": "MaryamHaghighat",
             "repo": "PathProfiler",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-02-14T16:16:18Z",
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1251
+            "stars": 1252
           }
         },
         {
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:18:26Z",
+            "last_commit": "2026-08-17T12:00:49Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
@@ -1138,7 +1138,7 @@
             "last_commit": "2024-01-31T14:06:01Z",
             "owner": "basveeling",
             "repo": "pcam",
-            "stars": 528
+            "stars": 529
           }
         },
         {
@@ -1359,7 +1359,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:57:48.541Z",
+    "last_updated": "2026-08-18T08:51:11.170Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
     "enhanced_repository": "enhansome/enhansome-pathology",

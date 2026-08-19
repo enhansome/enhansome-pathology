@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 267705904,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:20:05Z",
+                "last_commit": "2026-08-19T11:52:32Z",
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 544
@@ -458,7 +458,7 @@
                 "last_commit": "2026-02-14T16:16:18Z",
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1252
+                "stars": 1253
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2024-10-15T14:24:20Z",
                 "owner": "mahmoodlab",
                 "repo": "TANGLE",
-                "stars": 117
+                "stars": 116
               }
             },
             {
@@ -1463,8 +1463,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:52:18.497Z",
+    "last_updated": "2026-08-19T12:44:04.763Z",
     "original_repository": "open-pathology/awesome-pathology",
+    "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
     "enhanced_repository": "enhansome/enhansome-pathology",
     "enhanced_repository_description": null,

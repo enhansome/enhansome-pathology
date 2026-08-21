@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 267705904,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:48:33Z",
+                "last_commit": "2026-08-20T17:22:43Z",
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 544
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-13T13:14:49Z",
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 484
+                "stars": 485
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2025-12-27T12:24:00Z",
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 116
+                "stars": 117
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-15T16:14:41Z",
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-16T12:24:36Z",
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 620
+                "stars": 621
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2025-04-14T19:42:01Z",
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1724
+                "stars": 1725
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-10-27T11:42:36Z",
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 737
+                "stars": 736
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2024-05-03T12:35:09Z",
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 493
+                "stars": 494
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2026-07-17T19:24:23Z",
                 "owner": "nadeemlab",
                 "repo": "DeepLIIF",
-                "stars": 259
+                "stars": 258
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2024-03-19T15:50:10Z",
                 "owner": "mahmoodlab",
                 "repo": "HIPT",
-                "stars": 621
+                "stars": 620
               }
             },
             {
@@ -1050,7 +1050,7 @@
                 "last_commit": "2024-01-29T22:35:32Z",
                 "owner": "owkin",
                 "repo": "HistoSSLscaling",
-                "stars": 172
+                "stars": 171
               }
             },
             {
@@ -1144,7 +1144,7 @@
                 "archived": false,
                 "id": 335130719,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:31:05Z",
+                "last_commit": "2026-08-20T21:00:34Z",
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 166
@@ -1162,7 +1162,7 @@
                 "last_commit": "2026-08-13T22:39:55Z",
                 "owner": "choosehappy",
                 "repo": "QuickAnnotator",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:53:22.129Z",
+    "last_updated": "2026-08-21T08:54:47.705Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

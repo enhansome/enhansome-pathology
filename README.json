@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 267705904,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:22:43Z",
+                "last_commit": "2026-08-21T14:18:47Z",
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 544
+                "stars": 545
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 484469464,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T19:12:39Z",
+                "last_commit": "2026-08-21T21:07:16Z",
                 "owner": "choosehappy",
                 "repo": "PatchSorter",
                 "stars": 36
@@ -189,7 +189,7 @@
                 "last_commit": "2026-08-20T01:03:16Z",
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 467
+                "stars": 468
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-13T07:57:21Z",
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 425
+                "stars": 426
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2025-04-14T19:42:01Z",
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1725
+                "stars": 1726
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-10-27T11:42:36Z",
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 736
+                "stars": 738
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2026-07-17T19:24:23Z",
                 "owner": "nadeemlab",
                 "repo": "DeepLIIF",
-                "stars": 258
+                "stars": 259
               }
             },
             {
@@ -1095,7 +1095,7 @@
                 "last_commit": "2026-04-17T02:22:33Z",
                 "owner": "MAGIC-AI4Med",
                 "repo": "KEEP",
-                "stars": 68
+                "stars": 69
               }
             },
             {
@@ -1159,7 +1159,7 @@
                 "archived": false,
                 "id": 322341050,
                 "language": "JavaScript",
-                "last_commit": "2026-08-13T22:39:55Z",
+                "last_commit": "2026-08-21T21:35:41Z",
                 "owner": "choosehappy",
                 "repo": "QuickAnnotator",
                 "stars": 92
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:54:47.705Z",
+    "last_updated": "2026-08-22T08:44:31.397Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

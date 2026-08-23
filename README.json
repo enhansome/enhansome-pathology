@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-15T16:14:41Z",
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 663
+                "stars": 664
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2024-04-11T13:58:57Z",
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3137
+                "stars": 3138
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-10-27T11:42:36Z",
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 738
+                "stars": 739
               }
             },
             {
@@ -608,7 +608,7 @@
                 "last_commit": "2021-08-05T16:56:48Z",
                 "owner": "MarvinLer",
                 "repo": "tcga_segmentation",
-                "stars": 142
+                "stars": 143
               }
             },
             {
@@ -930,7 +930,7 @@
                 "last_commit": "2025-03-26T04:45:41Z",
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 767
+                "stars": 768
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "last_commit": "2025-03-29T16:46:56Z",
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 360
+                "stars": 361
               }
             },
             {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:44:31.397Z",
+    "last_updated": "2026-08-23T08:45:38.277Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

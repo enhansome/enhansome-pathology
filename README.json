@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 267705904,
                 "language": "Python",
-                "last_commit": "2026-08-21T14:18:47Z",
+                "last_commit": "2026-08-24T13:12:17Z",
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 545
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 2510503,
                 "language": "Java",
-                "last_commit": "2026-08-13T07:57:21Z",
+                "last_commit": "2026-08-24T11:14:30Z",
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 426
+                "stars": 427
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2025-04-14T19:42:01Z",
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1727
+                "stars": 1728
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2026-02-14T16:16:18Z",
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1254
+                "stars": 1255
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-10-27T11:42:36Z",
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 738
+                "stars": 739
               }
             },
             {
@@ -1332,6 +1332,28 @@
           "description": null,
           "node_type": "group",
           "title": "Datasets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ADP",
+              "description": "Atlas of digital pathology for deep learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179083741,
+                "language": "Python",
+                "last_commit": "2020-06-22T16:03:59Z",
+                "owner": "mahdihosseini",
+                "repo": "ADP",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "References"
         }
       ],
       "title": "Data"
@@ -1463,7 +1485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:01:34.822Z",
+    "last_updated": "2026-08-24T14:37:50.808Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

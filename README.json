@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-30T23:11:45Z",
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 235
+                "stars": 236
               }
             },
             {
@@ -171,7 +171,7 @@
                 "archived": false,
                 "id": 242422272,
                 "language": "Python",
-                "last_commit": "2026-08-15T16:14:41Z",
+                "last_commit": "2026-08-23T18:46:16Z",
                 "owner": "cgohlke",
                 "repo": "tifffile",
                 "stars": 664
@@ -246,7 +246,7 @@
                 "archived": false,
                 "id": 449725715,
                 "language": "Java",
-                "last_commit": "2026-08-19T15:59:31Z",
+                "last_commit": "2026-08-24T08:05:00Z",
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
                 "stars": 38
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-16T12:24:36Z",
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 621
+                "stars": 622
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2026-06-30T12:55:30Z",
                 "owner": "cafferychen777",
                 "repo": "flashdeconv",
-                "stars": 25
+                "stars": 26
               }
             }
           ],
@@ -443,7 +443,7 @@
                 "last_commit": "2025-04-14T19:42:01Z",
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1726
+                "stars": 1727
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2026-02-14T16:16:18Z",
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1253
+                "stars": 1254
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-10-27T11:42:36Z",
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 739
+                "stars": 738
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2025-07-23T06:10:25Z",
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 393
+                "stars": 394
               }
             },
             {
@@ -930,7 +930,7 @@
                 "last_commit": "2025-03-26T04:45:41Z",
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 768
+                "stars": 769
               }
             },
             {
@@ -945,7 +945,7 @@
                 "last_commit": "2026-08-07T17:33:17Z",
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 630
+                "stars": 631
               }
             },
             {
@@ -975,7 +975,7 @@
                 "last_commit": "2025-03-26T04:44:28Z",
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 523
+                "stars": 524
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2025-12-13T02:04:53Z",
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
-                "stars": 363
+                "stars": 365
               }
             },
             {
@@ -1020,7 +1020,7 @@
                 "last_commit": "2025-10-26T22:00:17Z",
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 241
+                "stars": 242
               }
             },
             {
@@ -1065,7 +1065,7 @@
                 "last_commit": "2024-11-21T09:43:41Z",
                 "owner": "bioptimus",
                 "repo": "releases",
-                "stars": 109
+                "stars": 110
               }
             },
             {
@@ -1235,7 +1235,7 @@
                 "last_commit": "2026-04-16T07:48:46Z",
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 428
+                "stars": 429
               }
             },
             {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:45:38.277Z",
+    "last_updated": "2026-08-24T09:01:34.822Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

@@ -204,7 +204,7 @@
                 "last_commit": "2026-08-24T11:14:30Z",
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 427
+                "stars": 428
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-16T12:24:36Z",
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 622
+                "stars": 623
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2025-12-13T02:04:53Z",
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
-                "stars": 365
+                "stars": 367
               }
             },
             {
@@ -1144,7 +1144,7 @@
                 "archived": false,
                 "id": 335130719,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:00:34Z",
+                "last_commit": "2026-08-24T20:26:18Z",
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 166
@@ -1235,7 +1235,7 @@
                 "last_commit": "2026-04-16T07:48:46Z",
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 429
+                "stars": 430
               }
             },
             {
@@ -1485,7 +1485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:50.808Z",
+    "last_updated": "2026-08-25T06:28:44.221Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

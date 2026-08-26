@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 267705904,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:12:17Z",
+                "last_commit": "2026-08-25T16:04:58Z",
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 545
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 356356336,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-20T01:03:16Z",
+                "last_commit": "2026-08-25T21:36:42Z",
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 468
@@ -201,7 +201,7 @@
                 "archived": false,
                 "id": 2510503,
                 "language": "Java",
-                "last_commit": "2026-08-24T11:14:30Z",
+                "last_commit": "2026-08-26T07:44:54Z",
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 428
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-16T12:24:36Z",
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 623
+                "stars": 624
               }
             },
             {
@@ -458,7 +458,7 @@
                 "last_commit": "2026-02-14T16:16:18Z",
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1255
+                "stars": 1254
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2023-10-27T11:42:36Z",
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 739
+                "stars": 740
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2025-12-13T02:04:53Z",
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
-                "stars": 367
+                "stars": 368
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "last_commit": "2024-06-24T09:18:50Z",
                 "owner": "openmedlab",
                 "repo": "PathoDuet",
-                "stars": 225
+                "stars": 224
               }
             },
             {
@@ -1174,7 +1174,7 @@
                 "archived": false,
                 "id": 231127262,
                 "language": "JavaScript",
-                "last_commit": "2026-08-11T20:27:41Z",
+                "last_commit": "2026-08-25T16:51:47Z",
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
                 "stars": 81
@@ -1235,7 +1235,7 @@
                 "last_commit": "2026-04-16T07:48:46Z",
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 430
+                "stars": 432
               }
             },
             {
@@ -1485,7 +1485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:56:23.941Z",
+    "last_updated": "2026-08-26T08:59:02.836Z",
     "original_repository": "open-pathology/awesome-pathology",
     "original_repository_id": 649949050,
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",

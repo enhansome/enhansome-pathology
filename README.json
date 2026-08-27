@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 267705904,
                 "language": "Python",
-                "last_commit": "2026-08-26T13:28:35Z",
+                "last_commit": "2026-08-27T17:07:26Z",
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 545
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-13T13:14:49Z",
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 485
+                "stars": 486
               }
             },
             {
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 356356336,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T20:34:28Z",
+                "last_commit": "2026-08-27T18:09:34Z",
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 468
@@ -458,7 +458,7 @@
                 "last_commit": "2026-02-14T16:16:18Z",
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1256
+                "stars": 1257
               }
             },
             {
@@ -608,7 +608,7 @@
                 "last_commit": "2021-08-05T16:56:48Z",
                 "owner": "MarvinLer",
                 "repo": "tcga_segmentation",
-                "stars": 143
+                "stars": 144
               }
             },
             {
@@ -1485,7 +1485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:33.300Z",
+    "last_updated": "2026-08-27T19:03:03.300Z",
     "original_repository_info": {
       "archived": false,
       "id": 649949050,

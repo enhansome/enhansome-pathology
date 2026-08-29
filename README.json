@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computational Pathology Toolbox developed by TIA Centre, University of Warwick.",
+                "homepage": "https://warwick.ac.uk/tia",
                 "id": 267705904,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:21:28Z",
+                "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "cell-classification",
+                  "cell-segmentation",
+                  "computational-pathology",
+                  "deep-learning",
+                  "digital-pathology",
+                  "histopathology",
+                  "image-analysis",
+                  "machine-learning",
+                  "medical-image-analysis",
+                  "python",
+                  "stain-normalization",
+                  "tissue-analysis",
+                  "tissue-segmentation",
+                  "whole-slide-imaging"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -28,12 +48,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python toolkit for pathology image analysis algorithms.",
+                "homepage": "https://digitalslidearchive.github.io/HistomicsTK/",
                 "id": 44324447,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T13:14:49Z",
+                "open_issues": 28,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 486
+                "stars": 486,
+                "topics": [
+                  "bioimage-informatics",
+                  "computer-vision",
+                  "digital-slide-archive",
+                  "histology",
+                  "machine-learning",
+                  "medical-image-processing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -44,12 +77,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HistoQC is an open-source quality control tool for digital pathology slides",
+                "homepage": null,
                 "id": 134317594,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T19:57:21Z",
+                "license": "BSD-3-Clause-Clear",
+                "last_commit": "2026-08-28T21:05:39Z",
+                "open_issues": 71,
                 "owner": "choosehappy",
                 "repo": "HistoQC",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -60,12 +98,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 846078299,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T23:11:45Z",
+                "open_issues": 14,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 236
+                "stars": 236,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -76,12 +119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GrandQC tool for tissue detection and quality control in pathology",
+                "homepage": null,
                 "id": 794603387,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-27T12:24:00Z",
+                "open_issues": 27,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -92,12 +140,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pipeline to segment tissue from the background in histological images",
+                "homepage": null,
                 "id": 157542912,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-04-02T09:38:08Z",
+                "open_issues": 8,
                 "owner": "manuel-munoz-aguirre",
                 "repo": "PyHIST",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "computational-pathology",
+                  "histological-images",
+                  "histology",
+                  "histopathology",
+                  "image-segmentation",
+                  "segmentation",
+                  "svs",
+                  "wsi"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -108,12 +170,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digital Pathology Whole Slide Image Analysis Toolbox",
+                "homepage": "https://pyslide.readthedocs.io",
                 "id": 109343127,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-02T16:10:05Z",
+                "open_issues": 0,
                 "owner": "PingjunChen",
                 "repo": "pyslide",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "computational-pathology",
+                  "deep-learning",
+                  "image-analysis",
+                  "pathology",
+                  "python",
+                  "whole-slide-imaging"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -124,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pipeline for computational pathology",
+                "homepage": null,
                 "id": 366366722,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-04T18:50:26Z",
+                "open_issues": 2,
                 "owner": "MaryamHaghighat",
                 "repo": "PathProfiler",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -140,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for rapidly labeling objects using deep learning feature embedding",
+                "homepage": null,
                 "id": 484469464,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause-Clear",
                 "last_commit": "2026-08-21T21:07:16Z",
+                "open_issues": 18,
                 "owner": "choosehappy",
                 "repo": "PatchSorter",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -156,12 +240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 866511884,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-05-03T10:34:28Z",
+                "open_issues": 0,
                 "owner": "philippendres",
                 "repo": "CellPilot",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -179,12 +268,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read and write TIFF files.",
+                "homepage": "https://pypi.org/project/tifffile",
                 "id": 242422272,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T18:46:16Z",
+                "open_issues": 0,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 664
+                "stars": 664,
+                "topics": [
+                  "format-reader",
+                  "image",
+                  "imagej",
+                  "life-sciences-image",
+                  "numpy",
+                  "ome-tiff",
+                  "python",
+                  "tiff",
+                  "whole-slide-imaging",
+                  "zarr"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -195,12 +300,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cuCIM - RAPIDS GPU-accelerated image processing library",
+                "homepage": "https://docs.rapids.ai/api/cucim/stable/",
                 "id": 356356336,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T19:25:05Z",
+                "open_issues": 156,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 468
+                "stars": 468,
+                "topics": [
+                  "computer-vision",
+                  "cuda",
+                  "digital-pathology",
+                  "gpu",
+                  "image-analysis",
+                  "image-data",
+                  "image-processing",
+                  "medical-imaging",
+                  "microscopy",
+                  "multidimensional-image-processing",
+                  "nvidia",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -211,12 +334,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bio-Formats is a Java library for reading and writing data in life sciences image file formats. It is developed by the  Open Microscopy Environment. Bio-Formats is released under the  GNU General Public License (GPL); commercial licenses are available from  Glencoe Software. ",
+                "homepage": "https://www.openmicroscopy.org/bio-formats",
                 "id": 2510503,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-26T07:44:54Z",
+                "open_issues": 175,
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 428
+                "stars": 428,
+                "topics": [
+                  "bio-formats",
+                  "format-converter",
+                  "format-reader",
+                  "image",
+                  "java",
+                  "life-sciences-image",
+                  "lightsheet",
+                  "metadata",
+                  "whole-slide-imaging",
+                  "wsi"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -227,12 +366,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package for working with whole-slide data including a fast batch iterator that can be used to train deep learning models.",
+                "homepage": "https://diagnijmegen.github.io/pathology-whole-slide-data/",
                 "id": 403850842,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-08T15:22:13Z",
+                "open_issues": 6,
                 "owner": "DIAGNijmegen",
                 "repo": "pathology-whole-slide-data",
-                "stars": 119
+                "stars": 119,
+                "topics": [
+                  "computational-pathology",
+                  "deep-learning",
+                  "histopathology",
+                  "iterator",
+                  "pathology",
+                  "python",
+                  "whole-slide-annotation",
+                  "whole-slide-data",
+                  "whole-slide-dataset",
+                  "whole-slide-image",
+                  "whole-slide-imaging",
+                  "whole-slide-mask",
+                  "wsa",
+                  "wsd",
+                  "wsi",
+                  "wsm"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -243,12 +404,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":microscope: Syntax - the arrangement of whole-slide-images and their image tiles to create well-formed computational pathology pipelines.",
+                "homepage": null,
                 "id": 120800741,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-22T06:22:15Z",
+                "open_issues": 6,
                 "owner": "jgamper",
                 "repo": "compay-syntax",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "computational-pathology",
+                  "medical-imaging",
+                  "openslide",
+                  "pathology-image",
+                  "slide-images",
+                  "whole-slide-image",
+                  "whole-slide-imaging",
+                  "wsis"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -259,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGFF-Converter is a GUI application for conversion of bioimage formats into OME-NGFF (Next-Generation File Format) or OME-TIFF",
+                "homepage": "https://www.glencoesoftware.com/products/ngff-converter/",
                 "id": 449725715,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-24T08:05:00Z",
+                "open_issues": 8,
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -275,12 +455,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities to generate a checkerboard and build multi-layer pyramidal .svs files from Scalable Vector Graphics images.",
+                "homepage": null,
                 "id": 338477333,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-07T07:26:56Z",
+                "open_issues": 0,
                 "owner": "Ellogon",
                 "repo": "svg2svs",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "checkerboard",
+                  "svg",
+                  "svs",
+                  "tiles",
+                  "vips"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -298,12 +489,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for large-scale whole-slide image processing. ",
+                "homepage": "https://trident-docs.readthedocs.io",
                 "id": 930598649,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T08:32:05Z",
+                "open_issues": 41,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 624
+                "stars": 624,
+                "topics": [
+                  "deep-learning",
+                  "foundation-model",
+                  "foundation-models-for-pathology",
+                  "histology",
+                  "pathology",
+                  "whole-slide-image"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -314,12 +517,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for computational pathology",
+                "homepage": "https://pathml.org",
                 "id": 199872628,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-14T02:49:27Z",
+                "open_issues": 52,
                 "owner": "Dana-Farber-AIOS",
                 "repo": "pathml",
-                "stars": 462
+                "stars": 462,
+                "topics": [
+                  "biomedical-image-processing",
+                  "computational-pathology",
+                  "deep-learning",
+                  "digital-pathology",
+                  "fluorescence-microscopy-imaging",
+                  "histopathology",
+                  "image-analysis",
+                  "machine-learning",
+                  "microscopy",
+                  "pathml",
+                  "pathology",
+                  "python",
+                  "pytorch",
+                  "research",
+                  "spatial-transcriptomics"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -330,12 +554,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standardized Python API with necessary preprocessing, machine learning and explainability tools to facilitate graph-analytics in computational pathology.",
+                "homepage": null,
                 "id": 224401765,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-12-23T15:08:07Z",
+                "open_issues": 23,
                 "owner": "BiomedSciAI",
                 "repo": "histocartography",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "deep-learning",
+                  "graph-neural-networks",
+                  "healthcare",
+                  "machine-learning",
+                  "pathology",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -346,12 +582,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evaluation framework for oncology foundation models (FMs)",
+                "homepage": "https://kaiko-ai.github.io/eva/",
                 "id": 743986791,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T13:53:48Z",
+                "open_issues": 31,
                 "owner": "kaiko-ai",
                 "repo": "eva",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "evaluation-framework",
+                  "foundation-models",
+                  "machine-learning",
+                  "oncology",
+                  "pathology",
+                  "radiology"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -362,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023 Oral, IJCV 2025] Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification",
+                "homepage": null,
                 "id": 612858475,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-07T08:25:54Z",
+                "open_issues": 1,
                 "owner": "DearCaat",
                 "repo": "MHIM-MIL",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -378,12 +631,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nuclei.io: Human-in-the-loop active learning framework for pathology image analysis",
+                "homepage": "https://huangzhii.github.io/nuclei-HAI/",
                 "id": 577952002,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-18T00:17:07Z",
+                "open_issues": 10,
                 "owner": "huangzhii",
                 "repo": "nuclei.io",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "ai",
+                  "medical-imaging",
+                  "pathology",
+                  "whole-slide-image"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -394,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for ENACT pipeline for end-to-end analysis of Visium HD data",
+                "homepage": null,
                 "id": 870891869,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-10T16:49:37Z",
+                "open_issues": 10,
                 "owner": "Sanofi-Public",
                 "repo": "enact-pipeline",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -410,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dlup are the Deep Learning Utilities for Pathology developed at the Netherlands Cancer Institute",
+                "homepage": null,
                 "id": 369830396,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T16:16:16Z",
+                "open_issues": 0,
                 "owner": "NKI-AI",
                 "repo": "dlup",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -426,12 +699,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast spatial deconvolution via leverage-score sketching — scales to million-spot datasets while preserving rare cell type signals.",
+                "homepage": null,
                 "id": 1114934837,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-30T12:55:30Z",
+                "open_issues": 0,
                 "owner": "cafferychen777",
                 "repo": "flashdeconv",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bioinformatics",
+                  "cell-type-deconvolution",
+                  "computational-biology",
+                  "deconvolution",
+                  "python",
+                  "scanpy",
+                  "single-cell",
+                  "spatial-transcriptomics",
+                  "visium"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -449,12 +737,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foundation Architecture for (M)LLMs",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 567185522,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-11T13:58:57Z",
+                "open_issues": 40,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3138
+                "stars": 3138,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning",
+                  "multimodal",
+                  "natural-language-processing",
+                  "pretrained-language-model",
+                  "speech-processing",
+                  "transformer",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -465,12 +767,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source tools for computational pathology - Nature BME",
+                "homepage": "http://clam.mahmoodlab.org",
                 "id": 252214049,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-14T19:42:01Z",
+                "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1728
+                "stars": 1728,
+                "topics": [
+                  "bioimage-informatics",
+                  "camelyon16",
+                  "camelyon17",
+                  "clam",
+                  "computational-pathology",
+                  "data-efficient",
+                  "deep-learning",
+                  "digital-pathology",
+                  "histopathology",
+                  "mahmoodlab",
+                  "pathology",
+                  "quantitative-pathology",
+                  "tcga-data",
+                  "weakly-supervised-learning",
+                  "whole-slide-imaging"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -481,12 +804,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StarDist - Object Detection with Star-convex Shapes",
+                "homepage": null,
                 "id": 138786192,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-14T16:16:18Z",
+                "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1257
+                "stars": 1257,
+                "topics": [
+                  "bioimage-analysis",
+                  "cell-segmentation",
+                  "deep-learning",
+                  "nuclei-segmentation",
+                  "object-detection",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -497,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simultaneous Nuclear Instance Segmentation and Classification in H&E Histology Images.",
+                "homepage": null,
                 "id": 160665326,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-27T11:42:36Z",
+                "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 740
+                "stars": 740,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -513,12 +853,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification",
+                "homepage": null,
                 "id": 413053070,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-03T12:35:09Z",
+                "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -529,12 +874,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CellViT: Vision Transformers for Precise Cell Segmentation and Classification",
+                "homepage": "https://doi.org/10.1016/j.media.2024.103143",
                 "id": 656166567,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-23T06:10:25Z",
+                "open_issues": 21,
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 394
+                "stars": 394,
+                "topics": [
+                  "ai",
+                  "cell",
+                  "digitalpathology",
+                  "microscopy",
+                  "ml",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -545,12 +903,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for tissue image stain normalisation and augmentation in Python 3",
+                "homepage": null,
                 "id": 113061327,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-08T15:32:46Z",
+                "open_issues": 9,
                 "owner": "Peter554",
                 "repo": "StainTools",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "computational-pathology",
+                  "medical-imaging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -561,12 +928,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) [Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Histopathology'23, MICCAI'24]",
+                "homepage": "https://deepliif.org",
                 "id": 358113748,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-17T19:24:23Z",
+                "open_issues": 0,
                 "owner": "nadeemlab",
                 "repo": "DeepLIIF",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "ai-ready",
+                  "cell-biology",
+                  "cell-segmentation",
+                  "cloud-native-applications",
+                  "datasets",
+                  "deep-learning",
+                  "digital-pathology",
+                  "image-segmentation",
+                  "immunohistochemical-images",
+                  "immunohistochemistry",
+                  "multiplex",
+                  "multitask-learning",
+                  "pathology",
+                  "pathology-gan",
+                  "pathology-image",
+                  "pytorch",
+                  "segmentation",
+                  "stitching",
+                  "super-resolution",
+                  "whole-slide-imaging"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -577,12 +970,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images - ICCV 2021",
+                "homepage": null,
                 "id": 358451746,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-11T20:42:18Z",
+                "open_issues": 13,
                 "owner": "mahmoodlab",
                 "repo": "MCAT",
-                "stars": 256
+                "stars": 256,
+                "topics": [
+                  "early-fusion",
+                  "genomics",
+                  "mahmoodlab",
+                  "mcat",
+                  "multimodal",
+                  "multimodal-deep-learning",
+                  "multimodal-fusion",
+                  "pathology"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -593,12 +1000,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stain normalization tools for histological analysis and computational pathology",
+                "homepage": null,
                 "id": 323590093,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-13T14:55:02Z",
+                "open_issues": 14,
                 "owner": "EIDOSLAB",
                 "repo": "torchstain",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "computational-pathology",
+                  "digital-pathology",
+                  "histopathology",
+                  "medical-imaging",
+                  "numpy",
+                  "python",
+                  "pytorch",
+                  "stain-normalization",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -609,12 +1031,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Context-Aware Survival Prediction using Patch-based Graph Convolutional Networks - MICCAI 2021",
+                "homepage": "http://mahmoodlab.org",
                 "id": 369636980,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-14T03:08:42Z",
+                "open_issues": 7,
                 "owner": "mahmoodlab",
                 "repo": "Patch-GCN",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "gcn",
+                  "histopathology",
+                  "mahmoodlab",
+                  "pathology",
+                  "survival-prediction",
+                  "wsi",
+                  "wsi-images"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -625,12 +1060,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Morphological Prototyping for Unsupervised Slide Representation Learning in Computational Pathology - CVPR 2024",
+                "homepage": null,
                 "id": 776879803,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-22T21:14:46Z",
+                "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "PANTHER",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "histology",
+                  "mixture-model",
+                  "optimal-transport",
+                  "panther",
+                  "pathology",
+                  "protoype"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -641,12 +1088,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Whole Slide Image segmentation with weakly supervised multiple instance learning on TCGA | MICCAI2020 https://arxiv.org/abs/2004.05024",
+                "homepage": null,
                 "id": 253813746,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-08-05T16:56:48Z",
+                "open_issues": 5,
                 "owner": "MarvinLer",
                 "repo": "tcga_segmentation",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "computational-pathology",
+                  "data-efficient",
+                  "histopathology",
+                  "image-segmentation",
+                  "medical-imaging",
+                  "miccai",
+                  "multiple-instance-learning",
+                  "pathology",
+                  "segmentation",
+                  "slide-image-segmentation",
+                  "tcga",
+                  "tcga-data",
+                  "tumor-segmentation",
+                  "weakly-supervised-learning",
+                  "whole-slide-imaging",
+                  "wsi"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -657,12 +1126,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attention-Challenging Multiple Instance Learning for Whole Slide Image Classification (ECCV2024)",
+                "homepage": null,
                 "id": 717760652,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-28T02:23:20Z",
+                "open_issues": 2,
                 "owner": "dazhangyu123",
                 "repo": "ACMIL",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "acmil",
+                  "bracs",
+                  "camelyon16",
+                  "computational-pathology",
+                  "digital-pathology",
+                  "histopathology",
+                  "multiple-instance-learning",
+                  "pathology-image",
+                  "weakly-supervised-learning",
+                  "whole-slide-image"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -673,12 +1158,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal prototyping for cancer survival prediction - ICML 2024",
+                "homepage": null,
                 "id": 804808827,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-22T21:18:44Z",
+                "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "MMP",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "multimodal",
+                  "optimal-transport",
+                  "pathology",
+                  "prototype",
+                  "survival"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -689,12 +1185,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transcriptomics-guided Slide Representation Learning in Computational Pathology - CVPR 2024",
+                "homepage": null,
                 "id": 773512072,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-15T14:24:20Z",
+                "open_issues": 7,
                 "owner": "mahmoodlab",
                 "repo": "TANGLE",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "contrastive-learning",
+                  "histology-transcriptomics",
+                  "mahmoodlab",
+                  "pathology",
+                  "pathology-genomics",
+                  "pathology-representation",
+                  "pathology-transcriptomics",
+                  "slide-representation-learning",
+                  "tangle"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -705,12 +1216,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official and maintained implementation of the paper \"Attention-Based Transformers for Instance Segmentation of Cells in Microstructures\" [BIBM 2020].",
+                "homepage": "https://arxiv.org/pdf/2011.09763",
                 "id": 310357344,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-28T00:36:03Z",
+                "open_issues": 4,
                 "owner": "ChristophReich1996",
                 "repo": "Cell-DETR",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "attention",
+                  "bibm-2020",
+                  "cell-detr",
+                  "cell-segmentation",
+                  "deep-learning",
+                  "instance-segmentation",
+                  "synthetic-biology",
+                  "system-biology",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -721,12 +1247,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One Model is All You Need: Multi-Task Learning Enables Simultaneous Histology Image Segmentation and Classification",
+                "homepage": null,
                 "id": 518545986,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-27T19:43:47Z",
+                "open_issues": 6,
                 "owner": "TissueImageAnalytics",
                 "repo": "cerberus",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "computational-pathology",
+                  "deep-learning",
+                  "multi-task-learning",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -737,12 +1274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vision language model for gigapixel whole slide images in histopathology",
+                "homepage": null,
                 "id": 768643062,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-04T19:02:46Z",
+                "open_issues": 2,
                 "owner": "marrlab",
                 "repo": "HistoGPT",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -753,12 +1295,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images (ICCV 2019)",
+                "homepage": null,
                 "id": 228425489,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-01-15T23:18:14Z",
+                "open_issues": 2,
                 "owner": "lyndonchan",
                 "repo": "hsn_v1",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "computational-pathology",
+                  "histopathology-images",
+                  "semantic-segmentation",
+                  "wsss"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -769,12 +1321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BEiT-based model Pre-training on Histopathological image",
+                "homepage": null,
                 "id": 771917554,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-24T13:35:07Z",
+                "open_issues": 7,
                 "owner": "Zhcyoung",
                 "repo": "BEPH",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -785,12 +1342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 145615460,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-04T21:38:30Z",
+                "open_issues": 6,
                 "owner": "xtarx",
                 "repo": "StainGAN",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -801,12 +1363,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python 3 library for the augmentation & normalization of H&E images",
+                "homepage": null,
                 "id": 313639183,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-09-12T14:58:42Z",
+                "open_issues": 3,
                 "owner": "sebastianffx",
                 "repo": "stainlib",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "computational-pathology",
+                  "histopathology",
+                  "image-augmentation",
+                  "image-normalization",
+                  "image-processing",
+                  "pathology"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -817,12 +1391,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Self-Supervised driven Consistency Training for Annotation Efficient Histopathology Image Analysis\" Published in Medical Image Analysis (MedIA) Journal, Oct, 2021.",
+                "homepage": "https://doi.org/10.1016/j.media.2021.102256",
                 "id": 336071205,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-05T01:21:56Z",
+                "open_issues": 0,
                 "owner": "srinidhiPY",
                 "repo": "SSL_CR_Histo",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "annotation-efficient",
+                  "breastpathq",
+                  "camelyon16",
+                  "deep-learning",
+                  "digital-pathology",
+                  "histopathology",
+                  "self-supervised-learning",
+                  "semi-supervised-learning",
+                  "teacher-student-training"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -833,12 +1422,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snuffy: Efficient Whole Slide Image Classifier For Efficient and Performant Diagnosis in Pathology Whole Slide Images",
+                "homepage": "http://jafarinia.github.io/snuffy_project",
                 "id": 825276451,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-24T13:02:37Z",
+                "open_issues": 0,
                 "owner": "jafarinia",
                 "repo": "snuffy",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "deep-le",
+                  "deep-learning",
+                  "multiple-instance-learning",
+                  "self-supervised-learning",
+                  "sparse-transformer"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -849,12 +1449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 373715372,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-26T08:08:08Z",
+                "open_issues": 4,
                 "owner": "yfzon",
                 "repo": "DT-MIL",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -865,12 +1470,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DiffInfinite Official Code",
+                "homepage": null,
                 "id": 682087661,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-10-30T15:31:48Z",
+                "open_issues": 8,
                 "owner": "marcoaversa",
                 "repo": "diffinfinite",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -881,12 +1491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study",
+                "homepage": "https://doi.org/10.1016/S1470-2045(20)30535-0",
                 "id": 315405103,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-11T01:06:52Z",
+                "open_issues": 2,
                 "owner": "rikiyay",
                 "repo": "MSINet",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -897,12 +1512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 503411665,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-15T15:14:10Z",
+                "open_issues": 1,
                 "owner": "MECLabTUDA",
                 "repo": "FrOoDo",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -913,12 +1533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Multi-Magnification Network for multi-class tissue segmentation of whole slide images",
+                "homepage": null,
                 "id": 411810573,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-15T07:39:36Z",
+                "open_issues": 1,
                 "owner": "MSKCC-Computational-Pathology",
                 "repo": "DMMN",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -929,12 +1554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sparse Convolutional Context-Aware Multiple Instance Learning for Whole Slide Image Classification | https://arxiv.org/abs/2105.02726",
+                "homepage": null,
                 "id": 402043824,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-10-11T07:21:14Z",
+                "open_issues": 0,
                 "owner": "MarvinLer",
                 "repo": "SparseConvMIL",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -945,12 +1575,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code repository of paper HMIL: Hierarchical Multi-Instance Learning for Fine-Grained WSI Classification",
+                "homepage": null,
                 "id": 877657714,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-18T08:43:36Z",
+                "open_issues": 0,
                 "owner": "ChengJin-git",
                 "repo": "HMIL",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "multi-instance-learning",
+                  "whole-slide-image"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -961,12 +1599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised Semantic Segmentation for Pathology",
+                "homepage": null,
                 "id": 838328925,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-21T11:58:31Z",
+                "open_issues": 2,
                 "owner": "deepathology",
                 "repo": "fseg",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -984,12 +1627,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pathology Foundation Model - Nature Medicine",
+                "homepage": null,
                 "id": 751712341,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-26T04:45:41Z",
+                "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 769
+                "stars": 769,
+                "topics": [
+                  "computational-pathology",
+                  "digital-pathology",
+                  "foundation",
+                  "foundation-model",
+                  "histopathology",
+                  "mahmoodlab",
+                  "mass-100k",
+                  "nature-medicine",
+                  "pathology",
+                  "pathology-dinov2",
+                  "pathology-fm",
+                  "pathology-foundation",
+                  "pathology-foundation-model",
+                  "pathology-self-supervised",
+                  "quantitative-pathology",
+                  "uni",
+                  "uni-foundation-model"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1000,12 +1666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data",
+                "homepage": null,
                 "id": 780197597,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T17:33:17Z",
+                "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 631
+                "stars": 631,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1016,12 +1687,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Image Pyramid Transformer - CVPR 2022 (Oral)",
+                "homepage": null,
                 "id": 500459271,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-19T15:50:10Z",
+                "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HIPT",
-                "stars": 620
+                "stars": 620,
+                "topics": [
+                  "computational-pathology",
+                  "cvpr",
+                  "cvpr2022",
+                  "deep-learning",
+                  "hierarchical-attention-networks",
+                  "high-resolution",
+                  "histopathology",
+                  "pretrained-weights",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transfer-learning",
+                  "unsupervised-learning",
+                  "vision-transformer",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1032,12 +1723,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision-Language Pathology Foundation Model - Nature Medicine",
+                "homepage": null,
                 "id": 737443214,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-26T04:44:28Z",
+                "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 526
+                "stars": 526,
+                "topics": [
+                  "bioimage-analysis",
+                  "bioimage-informatics",
+                  "computational-pathology",
+                  "conch",
+                  "digital-pathology",
+                  "foundation-model",
+                  "health-informatics",
+                  "histopathology",
+                  "mahmoodlab",
+                  "medical-imaging",
+                  "nature-medicine",
+                  "nlp-machine-learning",
+                  "pathology",
+                  "quantitative-pathology",
+                  "vision-language-pathology"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1048,12 +1760,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multimodal Whole Slide Foundation Model for Pathology - Nature Medicine",
+                "homepage": null,
                 "id": 895777359,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-13T02:04:53Z",
+                "open_issues": 3,
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
-                "stars": 369
+                "stars": 369,
+                "topics": [
+                  "computational-pathology",
+                  "histopathology",
+                  "nature-medicine",
+                  "pathology",
+                  "pathology-fm",
+                  "pathology-foundation-model"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1064,12 +1788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 383642976,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-29T16:46:56Z",
+                "open_issues": 40,
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 361
+                "stars": 361,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1080,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 806308054,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-26T22:00:17Z",
+                "open_issues": 4,
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 243
+                "stars": 243,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1096,12 +1830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 654786001,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-24T09:18:50Z",
+                "open_issues": 8,
                 "owner": "openmedlab",
                 "repo": "PathoDuet",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1112,12 +1851,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code associated to the publication: Scaling self-supervised learning for histopathology with masked image modeling, A. Filiot et al., MedRxiv (2023). We publicly release Phikon 🚀",
+                "homepage": null,
                 "id": 686055215,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-29T22:35:32Z",
+                "open_issues": 4,
                 "owner": "owkin",
                 "repo": "HistoSSLscaling",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "computational-pathology"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1128,12 +1874,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 826854640,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-21T09:43:41Z",
+                "open_issues": 5,
                 "owner": "bioptimus",
                 "repo": "releases",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1144,12 +1895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hibou: Foundational Models for Pathology",
+                "homepage": "https://hist.ai",
                 "id": 806540712,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-23T15:17:21Z",
+                "open_issues": 1,
                 "owner": "histai",
                 "repo": "hibou",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1160,12 +1916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[Cancer Cell, 2026] The official codes for \"A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis\"",
+                "homepage": null,
                 "id": 873042644,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-17T02:22:33Z",
+                "open_issues": 0,
                 "owner": "MAGIC-AI4Med",
                 "repo": "KEEP",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1176,12 +1937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Self-Supervised Vision Mamba for Histopathology Images",
+                "homepage": null,
                 "id": 751549827,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-23T14:36:00Z",
+                "open_issues": 0,
                 "owner": "AtlasAnalyticsLab",
                 "repo": "Vim4Path",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1192,12 +1958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular state revelation of gliomas",
+                "homepage": null,
                 "id": 736923431,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-11T14:33:55Z",
+                "open_issues": 0,
                 "owner": "whiteyunjie",
                 "repo": "ROAM",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -1215,12 +1986,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interoperable web-based DICOM slide microscopy viewer and annotation tool",
+                "homepage": "https://imagingdatacommons.github.io/slim/",
                 "id": 335130719,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:33:01Z",
+                "open_issues": 69,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "dicomweb",
+                  "digital-pathology",
+                  "idc-viewers",
+                  "oidc",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1231,12 +2013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source digital pathology based rapid image annotation tool",
+                "homepage": null,
                 "id": 322341050,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause-Clear",
                 "last_commit": "2026-08-21T21:35:41Z",
+                "open_issues": 30,
                 "owner": "choosehappy",
                 "repo": "QuickAnnotator",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1247,12 +2034,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Girder plugin for pathology image annotations and analysis.",
+                "homepage": null,
                 "id": 231127262,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:55:03Z",
+                "open_issues": 52,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "bioimage-infomatics",
+                  "digital-slide-archive",
+                  "histology",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1263,12 +2060,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay",
+                "homepage": null,
                 "id": 212855306,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-02-20T22:35:45Z",
+                "open_issues": 10,
                 "owner": "haranrk",
                 "repo": "DigiPathAI",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "cancer-research",
+                  "deep-learning",
+                  "gui",
+                  "medical-image-analysis",
+                  "openslide",
+                  "python",
+                  "segmentation",
+                  "wsi"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -1292,12 +2103,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PatchCamelyon (PCam) deep learning classification benchmark.",
+                "homepage": null,
                 "id": 135140095,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-31T14:06:01Z",
+                "open_issues": 7,
                 "owner": "basveeling",
                 "repo": "pcam",
-                "stars": 529
+                "stars": 529,
+                "topics": [
+                  "benchmark",
+                  "dataset",
+                  "deep-learning",
+                  "deep-learning-datasets",
+                  "pathology"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1308,12 +2130,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrating histology and spatial transcriptomics - NeurIPS 2024",
+                "homepage": null,
                 "id": 767130682,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-16T07:48:46Z",
+                "open_issues": 24,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 432
+                "stars": 433,
+                "topics": [
+                  "computational-pathology",
+                  "histology",
+                  "spatial-transcriptomics"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1324,12 +2155,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lung and Colon Cancer Histopathological Image Dataset",
+                "homepage": null,
                 "id": 228096090,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-09-04T11:32:32Z",
+                "open_issues": 9,
                 "owner": "tampapath",
                 "repo": "lung_colon_image_set",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1340,12 +2176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository includes the codes and descriptions to create a fully annotated dataset of nuclei from cryosectioned histological samples. ",
+                "homepage": null,
                 "id": 226118245,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2023-02-08T15:22:32Z",
+                "open_issues": 1,
                 "owner": "masih4",
                 "repo": "CryoNuSeg",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1356,12 +2197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 451873341,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-02-16T15:07:21Z",
+                "open_issues": 1,
                 "owner": "vqdang",
                 "repo": "H2T",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1372,12 +2218,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset of 9536 H&E-stained patches for colorectal polyps classification and adenomas grading | ICIP21 https://doi.org/10.1109/ICIP42928.2021.9506198",
+                "homepage": "https://ieee-dataport.org/open-access/unitopatho",
                 "id": 337362995,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-18T14:53:57Z",
+                "open_issues": 1,
                 "owner": "EIDOSLAB",
                 "repo": "UNITOPATHO",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cancer",
+                  "data",
+                  "health",
+                  "histopathological-image",
+                  "histopathology",
+                  "histopathology-images",
+                  "medical-image-processing",
+                  "medical-images",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1388,12 +2249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for DCIS segmentation pipeline",
+                "homepage": null,
                 "id": 267574132,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-11-22T03:41:53Z",
+                "open_issues": 9,
                 "owner": "pathdata",
                 "repo": "UNMaSk",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1404,12 +2270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 577810628,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-08-22T08:55:22Z",
+                "open_issues": 0,
                 "owner": "DeepMicroscopy",
                 "repo": "MultiScanner_SCC",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -1427,12 +2298,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Atlas of Digital Pathology for Deep Learning [CVPR2019]",
+                "homepage": null,
                 "id": 179083741,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-22T16:03:59Z",
+                "open_issues": 1,
                 "owner": "mahdihosseini",
                 "repo": "ADP",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "computational-pathology",
+                  "database",
+                  "dataset",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -1456,12 +2337,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology (LMRL Workshop, NeurIPS 2021)",
+                "homepage": null,
                 "id": 465509196,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-09T18:44:16Z",
+                "open_issues": 3,
                 "owner": "Richarizardd",
                 "repo": "Self-Supervised-ViT-Path",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "computational-pathology",
+                  "deep-learning",
+                  "histopathology",
+                  "neurips",
+                  "pretrained-weights",
+                  "pytorch",
+                  "self-supervised-learning",
+                  "transfer-learning",
+                  "unsupervised-learning",
+                  "vision-transformer",
+                  "weakly-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1472,12 +2370,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for the paper \"A Good Feature Extractor Is All You Need for Weakly Supervised Pathology Slide Classification\"",
+                "homepage": "https://georg.woelflein.eu/good-features",
                 "id": 688063188,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-08-17T21:32:11Z",
+                "open_issues": 1,
                 "owner": "georg-wolflein",
                 "repo": "good-features",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "cancer",
+                  "computational-pathology",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "self-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1488,12 +2398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Comprehensive Evaluation of Histopathology Foundation Models for Ovarian Cancer Subtype Classification",
+                "homepage": "https://doi.org/10.1038/s41698-025-00799-8",
                 "id": 787074863,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-31T12:21:35Z",
+                "open_issues": 1,
                 "owner": "scjjb",
                 "repo": "Ovarian_Features",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1504,12 +2419,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demographic bias in misdiagnosis by computational pathology models - Nature Medicine",
+                "homepage": null,
                 "id": 668500551,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-29T14:45:46Z",
+                "open_issues": 0,
                 "owner": "mahmoodlab",
                 "repo": "CPATH_demographics",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "ai-bias-testing",
+                  "ai-fairness",
+                  "ai-health",
+                  "ai4health",
+                  "ai4health-bias",
+                  "algorithimic-fairness",
+                  "bias-fairness-metrics",
+                  "computational-pathology",
+                  "demographic-bias",
+                  "digital-pathology",
+                  "ebrains",
+                  "fairness",
+                  "health-disparities",
+                  "pathology-bias",
+                  "pathology-disparities",
+                  "quantitative-pathology",
+                  "tcga-data"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1520,12 +2458,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 883617022,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-12-17T16:25:44Z",
+                "open_issues": 0,
                 "owner": "MatousE",
                 "repo": "rot-invariance-analysis",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -1543,12 +2486,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ressources of histopathology datasets",
+                "homepage": null,
                 "id": 516740799,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-06T20:42:26Z",
+                "open_issues": 7,
                 "owner": "maduc7",
                 "repo": "Histopathology-Datasets",
-                "stars": 570
+                "stars": 570,
+                "topics": [
+                  "awesome-list",
+                  "datasets",
+                  "histology-images",
+                  "histopathology",
+                  "histopathology-images",
+                  "machine-learning",
+                  "ressources"
+                ]
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -1559,12 +2515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Domain Generalization for Computational Pathology",
+                "homepage": null,
                 "id": 719309217,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-07T16:19:07Z",
+                "open_issues": 0,
                 "owner": "mostafajahanifar",
                 "repo": "awesome-dg-cpath",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             }
@@ -1578,15 +2539,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:58.418Z",
+    "last_updated": "2026-08-29T04:55:04.509Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome List of Digital and Computational Pathology Resources",
+      "homepage": null,
       "id": 649949050,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-11T00:04:34Z",
+      "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 131
+      "stars": 131,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computational-pathology",
+        "digital-pathology",
+        "heathcare",
+        "histopathology",
+        "histopathology-image-analysis",
+        "histopathology-images",
+        "histopathology-wsi",
+        "pathology",
+        "whole-slide-imaging"
+      ]
     },
     "original_repository_sha": "7a7bd3afc6b79137a336b0c8ad6f042b0dae0fa6",
     "enhanced_repository": "enhansome/enhansome-pathology",

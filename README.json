@@ -57,7 +57,7 @@
                 "open_issues": 28,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 486,
+                "stars": 485,
                 "topics": [
                   "bioimage-informatics",
                   "computer-vision",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1728,
+                "stars": 1729,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1991,8 +1991,8 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T17:33:01Z",
-                "open_issues": 69,
+                "last_commit": "2026-08-29T13:37:53Z",
+                "open_issues": 71,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 166,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:04.509Z",
+    "last_updated": "2026-08-29T13:48:44.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

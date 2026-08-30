@@ -277,7 +277,7 @@
                 "open_issues": 0,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "format-reader",
                   "image",
@@ -1330,7 +1330,7 @@
                 "open_issues": 7,
                 "owner": "Zhcyoung",
                 "repo": "BEPH",
-                "stars": 78,
+                "stars": 79,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 769,
+                "stars": 768,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1766,7 +1766,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-13T02:04:53Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
                 "stars": 369,
@@ -1991,7 +1991,7 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T13:37:53Z",
+                "last_commit": "2026-08-30T12:46:14Z",
                 "open_issues": 71,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
@@ -2139,7 +2139,7 @@
                 "open_issues": 24,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:48:44.524Z",
+    "last_updated": "2026-08-30T13:46:59.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

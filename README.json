@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 546,
+                "stars": 547,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -104,10 +104,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-30T23:11:45Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 236,
+                "stars": 237,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -339,8 +339,8 @@
                 "id": 2510503,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-26T07:44:54Z",
-                "open_issues": 175,
+                "last_commit": "2026-08-31T13:29:47Z",
+                "open_issues": 173,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 428,
@@ -439,8 +439,8 @@
                 "id": 449725715,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-24T08:05:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-31T15:58:06Z",
+                "open_issues": 7,
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
                 "stars": 38,
@@ -928,7 +928,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) [Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Histopathology'23, MICCAI'24]",
+                "description": "Deep Learning Inferred Multiplex ImmunoFluorescence for IHC Image Quantification (https://deepliif.org) [Nature Machine Intelligence'22, CVPR'22, MICCAI'23, Histopathology'23, MICCAI'24, MICCAI'26]",
                 "homepage": "https://deepliif.org",
                 "id": 358113748,
                 "language": "Python",
@@ -937,7 +937,7 @@
                 "open_issues": 0,
                 "owner": "nadeemlab",
                 "repo": "DeepLIIF",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "ai-ready",
                   "cell-biology",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 768,
+                "stars": 769,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1675,7 +1675,7 @@
                 "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 631,
+                "stars": 632,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1991,7 +1991,7 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T12:46:14Z",
+                "last_commit": "2026-08-31T15:48:42Z",
                 "open_issues": 71,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
@@ -2393,27 +2393,6 @@
             },
             {
               "node_type": "item",
-              "title": "breen2024ovarian",
-              "description": "Histopathology foundation models enable accurate ovarian cancer subtype classification.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Comprehensive Evaluation of Histopathology Foundation Models for Ovarian Cancer Subtype Classification",
-                "homepage": "https://doi.org/10.1038/s41698-025-00799-8",
-                "id": 787074863,
-                "language": "Jupyter Notebook",
-                "license": "GPL-3.0",
-                "last_commit": "2025-01-31T12:21:35Z",
-                "open_issues": 1,
-                "owner": "scjjb",
-                "repo": "Ovarian_Features",
-                "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:10:58.418Z"
-            },
-            {
-              "node_type": "item",
               "title": "vaidya2024demographic",
               "description": "Demographic bias in misdiagnosis by computational pathology models.",
               "children": [],
@@ -2428,7 +2407,7 @@
                 "open_issues": 0,
                 "owner": "mahmoodlab",
                 "repo": "CPATH_demographics",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "ai-bias-testing",
                   "ai-fairness",
@@ -2448,6 +2427,27 @@
                   "quantitative-pathology",
                   "tcga-data"
                 ]
+              },
+              "first_seen": "2026-08-28T20:10:58.418Z"
+            },
+            {
+              "node_type": "item",
+              "title": "breen2024ovarian",
+              "description": "Histopathology foundation models enable accurate ovarian cancer subtype classification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Comprehensive Evaluation of Histopathology Foundation Models for Ovarian Cancer Subtype Classification",
+                "homepage": "https://doi.org/10.1038/s41698-025-00799-8",
+                "id": 787074863,
+                "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
+                "last_commit": "2025-01-31T12:21:35Z",
+                "open_issues": 1,
+                "owner": "scjjb",
+                "repo": "Ovarian_Features",
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
             },
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:46:59.767Z",
+    "last_updated": "2026-08-31T16:07:39.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

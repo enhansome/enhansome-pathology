@@ -17,11 +17,11 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T10:06:46Z",
+                "last_commit": "2026-09-03T08:33:09Z",
                 "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 547,
+                "stars": 548,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -107,7 +107,7 @@
                 "open_issues": 15,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 237,
+                "stars": 238,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -274,7 +274,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-23T18:46:16Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "cgohlke",
                 "repo": "tifffile",
                 "stars": 665,
@@ -309,7 +309,7 @@
                 "open_issues": 157,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 468,
+                "stars": 467,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -439,8 +439,8 @@
                 "id": 449725715,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-01T13:40:00Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-02T15:22:55Z",
+                "open_issues": 7,
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
                 "stars": 38,
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1729,
+                "stars": 1728,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1797,7 +1797,7 @@
                 "open_issues": 40,
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 361,
+                "stars": 360,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2136,7 +2136,7 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-16T07:48:46Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
                 "stars": 436,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:45:01.224Z",
+    "last_updated": "2026-09-03T12:47:50.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

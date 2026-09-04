@@ -17,7 +17,7 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T08:33:09Z",
+                "last_commit": "2026-09-03T14:17:50Z",
                 "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
@@ -57,7 +57,7 @@
                 "open_issues": 28,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "bioimage-informatics",
                   "computer-vision",
@@ -107,7 +107,7 @@
                 "open_issues": 15,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 238,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -305,11 +305,11 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T14:47:34Z",
+                "last_commit": "2026-09-03T16:07:50Z",
                 "open_issues": 157,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 467,
+                "stars": 466,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1258,
+                "stars": 1260,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -937,7 +937,7 @@
                 "open_issues": 0,
                 "owner": "nadeemlab",
                 "repo": "DeepLIIF",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "ai-ready",
                   "cell-biology",
@@ -1069,7 +1069,7 @@
                 "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "PANTHER",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "histology",
                   "mixture-model",
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 527,
+                "stars": 526,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1818,7 +1818,7 @@
                 "open_issues": 4,
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1925,7 +1925,7 @@
                 "open_issues": 0,
                 "owner": "MAGIC-AI4Med",
                 "repo": "KEEP",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:47:50.346Z",
+    "last_updated": "2026-09-04T12:41:48.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

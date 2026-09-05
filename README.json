@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T14:17:50Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-04T17:00:36Z",
+                "open_issues": 14,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 548,
@@ -225,7 +225,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause-Clear",
                 "last_commit": "2026-09-01T17:46:09Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "choosehappy",
                 "repo": "PatchSorter",
                 "stars": 36,
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 741,
+                "stars": 742,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1992,7 +1992,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T22:08:52Z",
-                "open_issues": 72,
+                "open_issues": 74,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 166,
@@ -2495,7 +2495,7 @@
                 "open_issues": 7,
                 "owner": "maduc7",
                 "repo": "Histopathology-Datasets",
-                "stars": 570,
+                "stars": 571,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:41:48.607Z",
+    "last_updated": "2026-09-05T11:49:07.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

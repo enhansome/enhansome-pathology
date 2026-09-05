@@ -28,7 +28,7 @@
 
 ### Image Analysis
 
-* [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) ⭐ 548 | 🐛 13 | 🌐 Python | 📅 2026-09-03 - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
+* [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) ⭐ 548 | 🐛 14 | 🌐 Python | 📅 2026-09-04 - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 * [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) ⭐ 486 | 🐛 28 | 🌐 Python | 📅 2026-08-13 - Toolkit for the analysis of digital pathology images.
 * [HistoQC](https://github.com/choosehappy/HistoQC/) ⭐ 329 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-28 - Quality control tools for digital pathology.
 * [InstanSeg](https://github.com/instanseg/instanseg/) ⭐ 240 | 🐛 15 | 🌐 Python | 📅 2026-07-30 - Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.
@@ -36,7 +36,7 @@
 * [PyHIST](https://github.com/manuel-munoz-aguirre/PyHIST/) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2023-04-02 - Histological image segmentation tool.
 * [pyslide](https://github.com/PingjunChen/pyslide/) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2023-04-02 - Digital pathology WSI analysis toolbox.
 * [PathProfiler](https://github.com/MaryamHaghighat/PathProfiler/) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2024-01-04 - Quality assessment of histopathology WSI cohorts.
-* [PatchSorter](https://github.com/choosehappy/PatchSorter/) ⭐ 36 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-01 - A tool for rapidly labeling objects using deep learning feature embedding.
+* [PatchSorter](https://github.com/choosehappy/PatchSorter/) ⭐ 36 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-01 - A tool for rapidly labeling objects using deep learning feature embedding.
 * [CellPilot](https://github.com/philippendres/CellPilot/) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-03 - A unified approach to automatic and interactive segmentation in histopathology.
 
 ### Image IO
@@ -69,7 +69,7 @@
 * [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⭐ 3,139 | 🐛 40 | 🌐 Python | 📅 2024-04-11 - Vision Transformer that can process gigapixel images in an end-to-end manner.
 * [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,728 | 🐛 49 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
 * [StarDist](https://github.com/stardist/stardist/) ⭐ 1,260 | 🐛 70 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
-* [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 741 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
+* [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 742 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 * [TransMIL](https://github.com/szc19990412/TransMIL/) ⭐ 493 | 🐛 26 | 🌐 Python | 📅 2024-05-03 - Transformer based correlated multiple instance learning for WSI classification.
 * [CellViT](https://github.com/TIO-IKIM/CellViT/) ⭐ 393 | 🐛 21 | 🌐 Python | 📅 2025-07-23 - Vision transformers for precise cell segmentation and classification.
 * [StainTools](https://github.com/Peter554/StainTools/) ⚠️ Archived - Tools for tissue image stain normalisation and augmentation.
@@ -128,7 +128,7 @@
 
 ### Viewer
 
-* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 166 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-01 - Interoperable web-based slide microscopy viewer and annotation tool.
+* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 166 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-01 - Interoperable web-based slide microscopy viewer and annotation tool.
 * [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) ⭐ 92 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-21 - Model assisted tool for rapid annotation of WSIs.
 * [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 80 | 🐛 51 | 🌐 JavaScript | 📅 2026-09-01 - Web interface to visualize WSI and manage annotations.
 * [DigiPathAI](https://github.com/haranrk/DigiPathAI/) ⭐ 76 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-20 - Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.
@@ -226,9 +226,9 @@
 
 ### Repositories
 
-* [stettler2022datasets](https://github.com/maduc7/Histopathology-Datasets/) ⭐ 570 | 🐛 7 | 📅 2026-03-06 - Resources of histopathology datasets.
+* [stettler2022datasets](https://github.com/maduc7/Histopathology-Datasets/) ⭐ 571 | 🐛 7 | 📅 2026-03-06 - Resources of histopathology datasets.
 * [jahanifar2023domain](https://github.com/mostafajahanifar/awesome-dg-cpath/) ⭐ 25 | 🐛 0 | 📅 2024-11-07 - Awesome domain generalization for computational pathology.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

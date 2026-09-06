@@ -17,7 +17,7 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T17:00:36Z",
+                "last_commit": "2026-09-05T15:56:11Z",
                 "open_issues": 14,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
@@ -57,7 +57,7 @@
                 "open_issues": 28,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 486,
+                "stars": 487,
                 "topics": [
                   "bioimage-informatics",
                   "computer-vision",
@@ -883,7 +883,7 @@
                 "open_issues": 21,
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "ai",
                   "cell",
@@ -1167,7 +1167,7 @@
                 "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "MMP",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "multimodal",
                   "optimal-transport",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 769,
+                "stars": 770,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:49:07.876Z",
+    "last_updated": "2026-09-06T12:07:10.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
@@ -2551,7 +2551,7 @@
       "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "awesome",
         "awesome-list",

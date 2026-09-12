@@ -86,7 +86,7 @@
                 "open_issues": 71,
                 "owner": "choosehappy",
                 "repo": "HistoQC",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -104,7 +104,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-30T23:11:45Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "instanseg",
                 "repo": "instanseg",
                 "stars": 242,
@@ -128,7 +128,7 @@
                 "open_issues": 27,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -306,7 +306,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T14:33:43Z",
-                "open_issues": 164,
+                "open_issues": 165,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 467,
@@ -1069,7 +1069,7 @@
                 "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "PANTHER",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "histology",
                   "mixture-model",
@@ -1991,8 +1991,8 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T20:24:26Z",
-                "open_issues": 73,
+                "last_commit": "2026-09-11T14:03:19Z",
+                "open_issues": 74,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 167,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:47:46.173Z",
+    "last_updated": "2026-09-12T12:08:27.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
@@ -2551,7 +2551,7 @@
       "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 132,
+      "stars": 133,
       "topics": [
         "awesome",
         "awesome-list",

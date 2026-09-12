@@ -30,9 +30,9 @@
 
 * [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) ⭐ 550 | 🐛 13 | 🌐 Python | 📅 2026-09-11 - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 * [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) ⭐ 487 | 🐛 29 | 🌐 Python | 📅 2026-09-10 - Toolkit for the analysis of digital pathology images.
-* [HistoQC](https://github.com/choosehappy/HistoQC/) ⭐ 329 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-28 - Quality control tools for digital pathology.
-* [InstanSeg](https://github.com/instanseg/instanseg/) ⭐ 242 | 🐛 15 | 🌐 Python | 📅 2026-07-30 - Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.
-* [GrandQC](https://github.com/cpath-ukk/grandqc/) ⭐ 119 | 🐛 27 | 🌐 Python | 📅 2025-12-27 - A comprehensive solution to quality control problem in digital pathology.
+* [HistoQC](https://github.com/choosehappy/HistoQC/) ⭐ 330 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-28 - Quality control tools for digital pathology.
+* [InstanSeg](https://github.com/instanseg/instanseg/) ⭐ 242 | 🐛 16 | 🌐 Python | 📅 2026-07-30 - Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.
+* [GrandQC](https://github.com/cpath-ukk/grandqc/) ⭐ 120 | 🐛 27 | 🌐 Python | 📅 2025-12-27 - A comprehensive solution to quality control problem in digital pathology.
 * [PyHIST](https://github.com/manuel-munoz-aguirre/PyHIST/) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2023-04-02 - Histological image segmentation tool.
 * [pyslide](https://github.com/PingjunChen/pyslide/) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2023-04-02 - Digital pathology WSI analysis toolbox.
 * [PathProfiler](https://github.com/MaryamHaghighat/PathProfiler/) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2024-01-04 - Quality assessment of histopathology WSI cohorts.
@@ -42,7 +42,7 @@
 ### Image IO
 
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 666 | 🐛 1 | 🌐 Python | 📅 2026-09-08 - Read and write TIFF-like files using in bioimaging.
-* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 467 | 🐛 164 | 🌐 Jupyter Notebook | 📅 2026-09-10 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
+* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 467 | 🐛 165 | 🌐 Jupyter Notebook | 📅 2026-09-10 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 * [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 428 | 🐛 172 | 🌐 Java | 📅 2026-09-09 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
@@ -77,7 +77,7 @@
 * [MCAT](https://github.com/mahmoodlab/MCAT/) ⭐ 257 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2022-03-11 - Multimodal co-attention transformer for survival prediction in gigapixel WSIs.
 * [torchstain](https://github.com/EIDOSLAB/torchstain/) ⭐ 191 | 🐛 14 | 🌐 Python | 📅 2025-11-13 - Stain normalization transformations.
 * [Patch-GCN](https://github.com/mahmoodlab/Patch-GCN/) ⭐ 172 | 🐛 7 | 🌐 Python | 📅 2024-05-14 - WSI are 2D point clouds: Context-aware survival prediction using patch-based graph convolutional networks.
-* [PANTHER](https://github.com/mahmoodlab/Panther/) ⭐ 149 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-22 - Morphological prototyping for unsupervised slide representation learning in computational pathology.
+* [PANTHER](https://github.com/mahmoodlab/Panther/) ⭐ 150 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-22 - Morphological prototyping for unsupervised slide representation learning in computational pathology.
 * [TCGA segmentation](https://github.com/MarvinLer/tcga_segmentation/) ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2021-08-05 - Weakly supervised multiple instance learning histopathological tumor segmentation.
 * [ACMIL](https://github.com/dazhangyu123/ACMIL/) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2025-04-28 - WSI classification.
 * [MMP](https://github.com/mahmoodlab/MMP/) ⭐ 122 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-02-22 - Multimodal prototyping for cancer survival prediction.
@@ -128,7 +128,7 @@
 
 ### Viewer
 
-* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 167 | 🐛 73 | 🌐 TypeScript | 📅 2026-09-10 - Interoperable web-based slide microscopy viewer and annotation tool.
+* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 167 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-11 - Interoperable web-based slide microscopy viewer and annotation tool.
 * [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) ⭐ 92 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-21 - Model assisted tool for rapid annotation of WSIs.
 * [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 80 | 🐛 52 | 🌐 JavaScript | 📅 2026-09-08 - Web interface to visualize WSI and manage annotations.
 * [DigiPathAI](https://github.com/haranrk/DigiPathAI/) ⭐ 76 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-20 - Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

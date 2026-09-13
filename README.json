@@ -306,7 +306,7 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T14:33:43Z",
-                "open_issues": 165,
+                "open_issues": 166,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 467,
@@ -1135,7 +1135,7 @@
                 "open_issues": 2,
                 "owner": "dazhangyu123",
                 "repo": "ACMIL",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "acmil",
                   "bracs",
@@ -1167,7 +1167,7 @@
                 "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "MMP",
-                "stars": 122,
+                "stars": 123,
                 "topics": [
                   "multimodal",
                   "optimal-transport",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:08:27.701Z",
+    "last_updated": "2026-09-13T13:17:22.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

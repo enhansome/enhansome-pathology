@@ -107,7 +107,7 @@
                 "open_issues": 16,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -498,7 +498,7 @@
                 "open_issues": 43,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 628,
+                "stars": 631,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -588,7 +588,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T04:34:16Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "kaiko-ai",
                 "repo": "eva",
                 "stars": 172,
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1733,
+                "stars": 1735,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1260,
+                "stars": 1262,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -1225,7 +1225,7 @@
                 "open_issues": 4,
                 "owner": "ChristophReich1996",
                 "repo": "Cell-DETR",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "attention",
                   "bibm-2020",
@@ -1283,7 +1283,7 @@
                 "open_issues": 2,
                 "owner": "marrlab",
                 "repo": "HistoGPT",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 528,
+                "stars": 530,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1818,7 +1818,7 @@
                 "open_issues": 4,
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:17:22.725Z",
+    "last_updated": "2026-09-14T14:59:11.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

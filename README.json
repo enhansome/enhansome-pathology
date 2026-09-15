@@ -17,7 +17,7 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T10:30:08Z",
+                "last_commit": "2026-09-15T11:35:42Z",
                 "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
@@ -104,7 +104,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-30T23:11:45Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "instanseg",
                 "repo": "instanseg",
                 "stars": 243,
@@ -494,11 +494,11 @@
                 "id": 930598649,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T08:32:05Z",
+                "last_commit": "2026-09-15T06:57:55Z",
                 "open_issues": 43,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1262,
+                "stars": 1263,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -883,7 +883,7 @@
                 "open_issues": 21,
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 395,
+                "stars": 396,
                 "topics": [
                   "ai",
                   "cell",
@@ -2039,8 +2039,8 @@
                 "id": 231127262,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T20:30:19Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-15T13:23:50Z",
+                "open_issues": 51,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
                 "stars": 80,
@@ -2495,7 +2495,7 @@
                 "open_issues": 8,
                 "owner": "maduc7",
                 "repo": "Histopathology-Datasets",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:59:11.024Z",
+    "last_updated": "2026-09-15T13:29:34.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

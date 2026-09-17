@@ -17,7 +17,7 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T11:56:26Z",
+                "last_commit": "2026-09-16T14:54:02Z",
                 "open_issues": 14,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
@@ -53,7 +53,7 @@
                 "id": 44324447,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T12:44:23Z",
+                "last_commit": "2026-09-17T13:08:13Z",
                 "open_issues": 29,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
@@ -82,8 +82,8 @@
                 "id": 134317594,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause-Clear",
-                "last_commit": "2026-08-28T21:05:39Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-16T20:16:06Z",
+                "open_issues": 69,
                 "owner": "choosehappy",
                 "repo": "HistoQC",
                 "stars": 330,
@@ -305,7 +305,7 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T21:52:50Z",
+                "last_commit": "2026-09-16T17:55:27Z",
                 "open_issues": 167,
                 "owner": "rapidsai",
                 "repo": "cucim",
@@ -339,11 +339,11 @@
                 "id": 2510503,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-09T13:45:14Z",
-                "open_issues": 173,
+                "last_commit": "2026-09-17T07:40:49Z",
+                "open_issues": 171,
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "bio-formats",
                   "format-converter",
@@ -498,7 +498,7 @@
                 "open_issues": 44,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1736,
+                "stars": 1737,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -883,7 +883,7 @@
                 "open_issues": 21,
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "ai",
                   "cell",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 775,
+                "stars": 777,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1818,7 +1818,7 @@
                 "open_issues": 4,
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2039,8 +2039,8 @@
                 "id": 231127262,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T21:40:02Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-16T13:43:26Z",
+                "open_issues": 52,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
                 "stars": 80,
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:28:00.054Z",
+    "last_updated": "2026-09-17T13:23:49.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

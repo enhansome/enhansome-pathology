@@ -21,7 +21,7 @@
                 "open_issues": 14,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 550,
+                "stars": 551,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -57,7 +57,7 @@
                 "open_issues": 29,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 487,
+                "stars": 488,
                 "topics": [
                   "bioimage-informatics",
                   "computer-vision",
@@ -128,7 +128,7 @@
                 "open_issues": 27,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -340,7 +340,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-17T07:40:49Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 429,
@@ -498,7 +498,7 @@
                 "open_issues": 44,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -526,7 +526,7 @@
                 "open_issues": 52,
                 "owner": "Dana-Farber-AIOS",
                 "repo": "pathml",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "biomedical-image-processing",
                   "computational-pathology",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1737,
+                "stars": 1738,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 777,
+                "stars": 779,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1696,7 +1696,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HIPT",
-                "stars": 620,
+                "stars": 619,
                 "topics": [
                   "computational-pathology",
                   "cvpr",
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 437,
+                "stars": 438,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:23:49.970Z",
+    "last_updated": "2026-09-18T12:56:29.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

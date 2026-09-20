@@ -42,7 +42,7 @@
 ### Image IO
 
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 667 | 🐛 1 | 🌐 Python | 📅 2026-09-15 - Read and write TIFF-like files using in bioimaging.
-* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 467 | 🐛 166 | 🌐 Jupyter Notebook | 📅 2026-09-18 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
+* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 467 | 🐛 166 | 🌐 Jupyter Notebook | 📅 2026-09-20 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 * [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 429 | 🐛 170 | 🌐 Java | 📅 2026-09-18 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
@@ -70,7 +70,7 @@
 * [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,739 | 🐛 49 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
 * [StarDist](https://github.com/stardist/stardist/) ⭐ 1,266 | 🐛 70 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
 * [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 746 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
-* [TransMIL](https://github.com/szc19990412/TransMIL/) ⭐ 493 | 🐛 26 | 🌐 Python | 📅 2024-05-03 - Transformer based correlated multiple instance learning for WSI classification.
+* [TransMIL](https://github.com/szc19990412/TransMIL/) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03 - Transformer based correlated multiple instance learning for WSI classification.
 * [CellViT](https://github.com/TIO-IKIM/CellViT/) ⭐ 397 | 🐛 21 | 🌐 Python | 📅 2025-07-23 - Vision transformers for precise cell segmentation and classification.
 * [StainTools](https://github.com/Peter554/StainTools/) ⚠️ Archived - Tools for tissue image stain normalisation and augmentation.
 * [DeepLIIF](https://github.com/nadeemlab/DeepLIIF/) ⭐ 262 | 🐛 0 | 🌐 Python | 📅 2026-08-31 - Deep-learning inferred multiplex immunofluorescence for immunohistochemical image quantification.
@@ -90,7 +90,7 @@
 * [StainGAN](https://github.com/xtarx/StainGAN/) ⭐ 72 | 🐛 6 | 🌐 Python | 📅 2021-02-04 - Stain style transfer for digital histological images.
 * [stainlib](https://github.com/sebastianffx/stainlib/) ⭐ 66 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-09-12 - Augmentation & normalization of H\&E images.
 * [RSP](https://github.com/srinidhiPY/SSL_CR_Histo/) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2022-03-05 - Self-supervised driven consistency training for annotation efficient histopathology image analysis.
-* [Snuffy](https://github.com/jafarinia/snuffy/) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - Efficient WSI classifier.
+* [Snuffy](https://github.com/jafarinia/snuffy/) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - Efficient WSI classifier.
 * [DT-MIL](https://github.com/yfzon/DT-MIL/) ⭐ 38 | 🐛 4 | 🌐 Python | 📅 2021-10-26 - Deformable transformer for multi-instance learning on histopathological image.
 * [DiffInfinite](https://github.com/marcoaversa/diffinfinite/) ⭐ 36 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-10-30 - Large mask-image synthesis via parallel random patch diffusion in histopathology.
 * [MSINet](https://github.com/rikiyay/MSINet/) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2021-02-11 - Deep learning model for the prediction of microsatellite instability in colorectal cancer.
@@ -102,10 +102,10 @@
 
 ### Foundation Model
 
-* [UNI](https://github.com/mahmoodlab/UNI/) ⭐ 780 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-03-26 - General-purpose foundation model for computational pathology.
+* [UNI](https://github.com/mahmoodlab/UNI/) ⭐ 781 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-03-26 - General-purpose foundation model for computational pathology.
 * [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) ⭐ 635 | 🐛 74 | 🌐 Python | 📅 2026-08-07 - A whole-slide foundation model for digital pathology from real-world data.
 * [HIPT](https://github.com/mahmoodlab/HIPT/) ⭐ 619 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2024-03-19 - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
-* [CONCH](https://github.com/mahmoodlab/CONCH/) ⭐ 532 | 🐛 16 | 🌐 Python | 📅 2025-03-26 - Vision-language foundation model for computational pathology.
+* [CONCH](https://github.com/mahmoodlab/CONCH/) ⭐ 533 | 🐛 16 | 🌐 Python | 📅 2025-03-26 - Vision-language foundation model for computational pathology.
 * [TITAN](https://github.com/mahmoodlab/TITAN/) ⭐ 370 | 🐛 5 | 🌐 Python | 📅 2025-12-13 - Multimodal whole slide foundation model for pathology.
 * [TransPath](https://github.com/Xiyue-Wang/TransPath/) ⭐ 361 | 🐛 40 | 🌐 Python | 📅 2025-03-29 - Transformer-based unsupervised contrastive learning for histopathological image classification.
 * [MUSK](https://github.com/lilab-stanford/MUSK/) ⭐ 246 | 🐛 4 | 🌐 Python | 📅 2025-10-26 - A vision-language foundation model for precision oncology.
@@ -128,7 +128,7 @@
 
 ### Viewer
 
-* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 167 | 🐛 73 | 🌐 TypeScript | 📅 2026-09-16 - Interoperable web-based slide microscopy viewer and annotation tool.
+* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 167 | 🐛 74 | 🌐 TypeScript | 📅 2026-09-19 - Interoperable web-based slide microscopy viewer and annotation tool.
 * [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) ⭐ 93 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-21 - Model assisted tool for rapid annotation of WSIs.
 * [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 80 | 🐛 52 | 🌐 JavaScript | 📅 2026-09-16 - Web interface to visualize WSI and manage annotations.
 * [DigiPathAI](https://github.com/haranrk/DigiPathAI/) ⭐ 76 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-20 - Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

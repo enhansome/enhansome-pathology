@@ -305,7 +305,7 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T21:22:35Z",
+                "last_commit": "2026-09-20T00:08:49Z",
                 "open_issues": 166,
                 "owner": "rapidsai",
                 "repo": "cucim",
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1431,7 +1431,7 @@
                 "open_issues": 0,
                 "owner": "jafarinia",
                 "repo": "snuffy",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "deep-le",
                   "deep-learning",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 780,
+                "stars": 781,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1991,8 +1991,8 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T09:18:28Z",
-                "open_issues": 73,
+                "last_commit": "2026-09-19T16:09:04Z",
+                "open_issues": 74,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 167,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:28:07.294Z",
+    "last_updated": "2026-09-20T13:01:28.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

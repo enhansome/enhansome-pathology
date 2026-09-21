@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T23:55:37Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-21T14:10:16Z",
+                "open_issues": 15,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 551,
@@ -128,7 +128,7 @@
                 "open_issues": 27,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -273,7 +273,7 @@
                 "id": 242422272,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T16:40:00Z",
+                "last_commit": "2026-09-21T04:00:26Z",
                 "open_issues": 1,
                 "owner": "cgohlke",
                 "repo": "tifffile",
@@ -305,7 +305,7 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T00:08:49Z",
+                "last_commit": "2026-09-21T03:07:48Z",
                 "open_issues": 166,
                 "owner": "rapidsai",
                 "repo": "cucim",
@@ -498,7 +498,7 @@
                 "open_issues": 44,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 633,
+                "stars": 634,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1739,
+                "stars": 1741,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 746,
+                "stars": 747,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1797,7 +1797,7 @@
                 "open_issues": 40,
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 361,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:01:28.695Z",
+    "last_updated": "2026-09-21T15:04:15.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
@@ -2551,7 +2551,7 @@
       "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 133,
+      "stars": 134,
       "topics": [
         "awesome",
         "awesome-list",

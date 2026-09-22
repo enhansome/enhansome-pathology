@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T14:10:16Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-22T13:17:46Z",
+                "open_issues": 17,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 551,
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T03:07:48Z",
-                "open_issues": 166,
+                "last_commit": "2026-09-22T04:33:59Z",
+                "open_issues": 163,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 467,
@@ -339,8 +339,8 @@
                 "id": 2510503,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-18T13:40:43Z",
-                "open_issues": 170,
+                "last_commit": "2026-09-22T08:54:29Z",
+                "open_issues": 165,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 429,
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 781,
+                "stars": 782,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1769,7 +1769,7 @@
                 "open_issues": 5,
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "computational-pathology",
                   "histopathology",
@@ -2112,7 +2112,7 @@
                 "open_issues": 7,
                 "owner": "basveeling",
                 "repo": "pcam",
-                "stars": 529,
+                "stars": 530,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:04:15.831Z",
+    "last_updated": "2026-09-22T13:22:45.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

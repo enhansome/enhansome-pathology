@@ -17,7 +17,7 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T10:59:34Z",
+                "last_commit": "2026-09-24T09:29:52Z",
                 "open_issues": 14,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
@@ -53,8 +53,8 @@
                 "id": 44324447,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T13:08:13Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-24T08:32:49Z",
+                "open_issues": 30,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
                 "stars": 488,
@@ -224,8 +224,8 @@
                 "id": 484469464,
                 "language": "JavaScript",
                 "license": "BSD-3-Clause-Clear",
-                "last_commit": "2026-09-15T22:03:37Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-23T19:35:14Z",
+                "open_issues": 16,
                 "owner": "choosehappy",
                 "repo": "PatchSorter",
                 "stars": 36,
@@ -439,8 +439,8 @@
                 "id": 449725715,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-02T15:22:55Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-24T10:06:56Z",
+                "open_issues": 6,
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
                 "stars": 38,
@@ -498,7 +498,7 @@
                 "open_issues": 44,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 634,
+                "stars": 635,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -619,7 +619,7 @@
                 "open_issues": 1,
                 "owner": "DearCaat",
                 "repo": "MHIM-MIL",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 494,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -912,7 +912,7 @@
                 "open_issues": 9,
                 "owner": "Peter554",
                 "repo": "StainTools",
-                "stars": 347,
+                "stars": 348,
                 "topics": [
                   "computational-pathology",
                   "medical-imaging",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 782,
+                "stars": 781,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1675,7 +1675,7 @@
                 "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 635,
+                "stars": 636,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2164,7 +2164,7 @@
                 "open_issues": 9,
                 "owner": "tampapath",
                 "repo": "lung_colon_image_set",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:36:12.850Z",
+    "last_updated": "2026-09-24T13:31:07.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

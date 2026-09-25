@@ -57,7 +57,7 @@
                 "open_issues": 30,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "bioimage-informatics",
                   "computer-vision",
@@ -107,7 +107,7 @@
                 "open_issues": 17,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 243,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -309,7 +309,7 @@
                 "open_issues": 162,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1741,
+                "stars": 1740,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1266,
+                "stars": 1268,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -883,7 +883,7 @@
                 "open_issues": 21,
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 398,
+                "stars": 399,
                 "topics": [
                   "ai",
                   "cell",
@@ -1069,7 +1069,7 @@
                 "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "PANTHER",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "histology",
                   "mixture-model",
@@ -1194,7 +1194,7 @@
                 "open_issues": 7,
                 "owner": "mahmoodlab",
                 "repo": "TANGLE",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "contrastive-learning",
                   "histology-transcriptomics",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:31:07.771Z",
+    "last_updated": "2026-09-25T13:42:02.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

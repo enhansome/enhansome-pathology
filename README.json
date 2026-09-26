@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T09:29:52Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-25T23:54:59Z",
+                "open_issues": 15,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 551,
@@ -498,7 +498,7 @@
                 "open_issues": 44,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 635,
+                "stars": 637,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -1194,7 +1194,7 @@
                 "open_issues": 7,
                 "owner": "mahmoodlab",
                 "repo": "TANGLE",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "contrastive-learning",
                   "histology-transcriptomics",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 781,
+                "stars": 782,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1675,7 +1675,7 @@
                 "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 636,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 4,
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2495,7 +2495,7 @@
                 "open_issues": 8,
                 "owner": "maduc7",
                 "repo": "Histopathology-Datasets",
-                "stars": 572,
+                "stars": 573,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:42:02.947Z",
+    "last_updated": "2026-09-26T13:01:42.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

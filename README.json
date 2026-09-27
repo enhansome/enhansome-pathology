@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 551,
+                "stars": 552,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -495,10 +495,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T15:38:31Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 637,
+                "stars": 638,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -746,7 +746,7 @@
                 "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3141,
+                "stars": 3143,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1268,
+                "stars": 1270,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 747,
+                "stars": 748,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:01:42.295Z",
+    "last_updated": "2026-09-27T13:53:56.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

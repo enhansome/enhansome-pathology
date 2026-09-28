@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T23:54:59Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-28T11:59:19Z",
+                "open_issues": 12,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 552,
@@ -53,8 +53,8 @@
                 "id": 44324447,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T08:32:49Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-28T16:29:50Z",
+                "open_issues": 29,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
                 "stars": 489,
@@ -128,7 +128,7 @@
                 "open_issues": 27,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 123,
+                "stars": 124,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -277,7 +277,7 @@
                 "open_issues": 1,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 667,
+                "stars": 668,
                 "topics": [
                   "format-reader",
                   "image",
@@ -339,7 +339,7 @@
                 "id": 2510503,
                 "language": "Java",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T08:54:29Z",
+                "last_commit": "2026-09-28T15:43:45Z",
                 "open_issues": 165,
                 "owner": "ome",
                 "repo": "bioformats",
@@ -699,12 +699,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Fast spatial deconvolution via leverage-score sketching — scales to million-spot datasets while preserving rare cell type signals.",
+                "description": "Fast, deterministic cell-type deconvolution for million-bin spatial transcriptomics",
                 "homepage": null,
                 "id": 1114934837,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-09T02:31:24Z",
+                "last_commit": "2026-09-28T04:38:10Z",
                 "open_issues": 0,
                 "owner": "cafferychen777",
                 "repo": "flashdeconv",
@@ -746,7 +746,7 @@
                 "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3143,
+                "stars": 3142,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1270,
+                "stars": 1271,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 782,
+                "stars": 783,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1696,7 +1696,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HIPT",
-                "stars": 619,
+                "stars": 620,
                 "topics": [
                   "computational-pathology",
                   "cvpr",
@@ -1991,11 +1991,11 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T16:09:04Z",
+                "last_commit": "2026-09-28T15:57:13Z",
                 "open_issues": 74,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "dicomweb",
                   "digital-pathology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:53:56.534Z",
+    "last_updated": "2026-09-28T16:43:47.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

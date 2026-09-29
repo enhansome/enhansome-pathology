@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T11:59:19Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-29T13:54:36Z",
+                "open_issues": 16,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 552,
@@ -640,7 +640,7 @@
                 "open_issues": 10,
                 "owner": "huangzhii",
                 "repo": "nuclei.io",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "ai",
                   "medical-imaging",
@@ -704,7 +704,7 @@
                 "id": 1114934837,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T04:38:10Z",
+                "last_commit": "2026-09-29T04:04:53Z",
                 "open_issues": 0,
                 "owner": "cafferychen777",
                 "repo": "flashdeconv",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1271,
+                "stars": 1272,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -1991,8 +1991,8 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T15:57:13Z",
-                "open_issues": 74,
+                "last_commit": "2026-09-29T14:40:15Z",
+                "open_issues": 69,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 168,
@@ -2043,7 +2043,7 @@
                 "open_issues": 52,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "bioimage-infomatics",
                   "digital-slide-archive",
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:43:47.651Z",
+    "last_updated": "2026-09-29T14:49:39.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
@@ -2551,7 +2551,7 @@
       "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 134,
+      "stars": 135,
       "topics": [
         "awesome",
         "awesome-list",

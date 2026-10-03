@@ -343,7 +343,7 @@
                 "open_issues": 164,
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 429,
+                "stars": 431,
                 "topics": [
                   "bio-formats",
                   "format-converter",
@@ -443,7 +443,7 @@
                 "open_issues": 6,
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -746,7 +746,7 @@
                 "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3142,
+                "stars": 3140,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1742,
+                "stars": 1743,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -2043,7 +2043,7 @@
                 "open_issues": 54,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
-                "stars": 81,
+                "stars": 80,
                 "topics": [
                   "bioimage-infomatics",
                   "digital-slide-archive",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:22.516Z",
+    "last_updated": "2026-10-03T05:02:04.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

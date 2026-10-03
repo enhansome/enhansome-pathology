@@ -43,10 +43,10 @@
 
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 668 | 🐛 1 | 🌐 Python | 📅 2026-09-21 - Read and write TIFF-like files using in bioimaging.
 * [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 469 | 🐛 163 | 🌐 Jupyter Notebook | 📅 2026-10-01 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
-* [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 429 | 🐛 164 | 🌐 Java | 📅 2026-10-02 - Java software tool for reading and writing microscopy image using standardized, open formats.
+* [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 431 | 🐛 164 | 🌐 Java | 📅 2026-10-02 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
-* [NGFF-Converter](https://github.com/glencoesoftware/NGFF-Converter/) ⭐ 38 | 🐛 6 | 🌐 Java | 📅 2026-10-01 - GUI application for conversion of bioimage formats into OME-NGFF or OME-TIFF.
+* [NGFF-Converter](https://github.com/glencoesoftware/NGFF-Converter/) ⭐ 39 | 🐛 6 | 🌐 Java | 📅 2026-10-01 - GUI application for conversion of bioimage formats into OME-NGFF or OME-TIFF.
 * [svg2svs](https://github.com/Ellogon/svg2svs/) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2021-05-07 - Generate checkerboard and build multi-layer pyramidal SVS files from SVG images.
 * [libvips](https://www.libvips.org/) - A fast image processing library with low memory needs.
 * [OpenSlide](https://openslide.org/) - Provides a simple C interface with Python bindings to read WSIs in multiple formats.
@@ -66,8 +66,8 @@
 
 ### Model
 
-* [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⭐ 3,142 | 🐛 41 | 🌐 Python | 📅 2024-04-11 - Vision Transformer that can process gigapixel images in an end-to-end manner.
-* [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,742 | 🐛 49 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
+* [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⭐ 3,140 | 🐛 41 | 🌐 Python | 📅 2024-04-11 - Vision Transformer that can process gigapixel images in an end-to-end manner.
+* [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,743 | 🐛 49 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
 * [StarDist](https://github.com/stardist/stardist/) ⭐ 1,275 | 🐛 70 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
 * [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 749 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 * [TransMIL](https://github.com/szc19990412/TransMIL/) ⭐ 495 | 🐛 26 | 🌐 Python | 📅 2024-05-03 - Transformer based correlated multiple instance learning for WSI classification.
@@ -130,7 +130,7 @@
 
 * [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 168 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-01 - Interoperable web-based slide microscopy viewer and annotation tool.
 * [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) ⭐ 93 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-21 - Model assisted tool for rapid annotation of WSIs.
-* [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 81 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-01 - Web interface to visualize WSI and manage annotations.
+* [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 80 | 🐛 54 | 🌐 JavaScript | 📅 2026-10-01 - Web interface to visualize WSI and manage annotations.
 * [DigiPathAI](https://github.com/haranrk/DigiPathAI/) ⭐ 76 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-20 - Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.
 * [ASAP](https://computationalpathologygroup.github.io/ASAP/) - Desktop application for visualizing, annotating and automatically analyzing WSIs.
 * [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

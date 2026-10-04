@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 553,
+                "stars": 554,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -526,7 +526,7 @@
                 "open_issues": 52,
                 "owner": "Dana-Farber-AIOS",
                 "repo": "pathml",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "biomedical-image-processing",
                   "computational-pathology",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1743,
+                "stars": 1744,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:20:00.949Z",
+    "last_updated": "2026-10-04T13:54:16.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

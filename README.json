@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 554,
+                "stars": 555,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -498,7 +498,7 @@
                 "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -563,7 +563,7 @@
                 "open_issues": 23,
                 "owner": "BiomedSciAI",
                 "repo": "histocartography",
-                "stars": 274,
+                "stars": 275,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1275,
+                "stars": 1273,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -1675,7 +1675,7 @@
                 "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 638,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2307,7 +2307,7 @@
                 "open_issues": 1,
                 "owner": "mahdihosseini",
                 "repo": "ADP",
-                "stars": 25,
+                "stars": 26,
                 "topics": [
                   "computational-pathology",
                   "database",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:54:16.954Z",
+    "last_updated": "2026-10-05T17:06:00.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

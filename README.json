@@ -17,7 +17,7 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T13:50:47Z",
+                "last_commit": "2026-10-08T10:42:39Z",
                 "open_issues": 19,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 669,
+                "stars": 670,
                 "topics": [
                   "format-reader",
                   "image",
@@ -305,7 +305,7 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T13:42:20Z",
+                "last_commit": "2026-10-08T14:32:39Z",
                 "open_issues": 164,
                 "owner": "rapidsai",
                 "repo": "cucim",
@@ -340,10 +340,10 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-06T09:43:10Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "bio-formats",
                   "format-converter",
@@ -708,7 +708,7 @@
                 "open_issues": 0,
                 "owner": "cafferychen777",
                 "repo": "flashdeconv",
-                "stars": 26,
+                "stars": 25,
                 "topics": [
                   "bioinformatics",
                   "cell-type-deconvolution",
@@ -1991,7 +1991,7 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:38:12Z",
+                "last_commit": "2026-10-08T12:41:58Z",
                 "open_issues": 69,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:32:43.379Z",
+    "last_updated": "2026-10-08T15:32:42.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

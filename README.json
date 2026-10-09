@@ -17,11 +17,11 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T10:42:39Z",
+                "last_commit": "2026-10-09T10:18:04Z",
                 "open_issues": 19,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 556,
+                "stars": 557,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -107,7 +107,7 @@
                 "open_issues": 13,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T14:32:39Z",
-                "open_issues": 164,
+                "last_commit": "2026-10-09T14:49:28Z",
+                "open_issues": 163,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 469,
@@ -343,7 +343,7 @@
                 "open_issues": 164,
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "bio-formats",
                   "format-converter",
@@ -776,7 +776,7 @@
                 "open_issues": 49,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -1904,7 +1904,7 @@
                 "open_issues": 1,
                 "owner": "histai",
                 "repo": "hibou",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1992,7 +1992,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T12:41:58Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 168,
@@ -2112,7 +2112,7 @@
                 "open_issues": 7,
                 "owner": "basveeling",
                 "repo": "pcam",
-                "stars": 530,
+                "stars": 529,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 443,
+                "stars": 444,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:32:42.968Z",
+    "last_updated": "2026-10-09T15:15:05.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

@@ -309,7 +309,7 @@
                 "open_issues": 164,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -498,7 +498,7 @@
                 "open_issues": 46,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -619,7 +619,7 @@
                 "open_issues": 1,
                 "owner": "DearCaat",
                 "repo": "MHIM-MIL",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1747,
+                "stars": 1746,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -1097,7 +1097,7 @@
                 "open_issues": 5,
                 "owner": "MarvinLer",
                 "repo": "tcga_segmentation",
-                "stars": 144,
+                "stars": 145,
                 "topics": [
                   "computational-pathology",
                   "data-efficient",
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1991,11 +1991,11 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T13:55:53Z",
+                "last_commit": "2026-10-11T14:04:23Z",
                 "open_issues": 70,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "dicomweb",
                   "digital-pathology",
@@ -2495,7 +2495,7 @@
                 "open_issues": 8,
                 "owner": "maduc7",
                 "repo": "Histopathology-Datasets",
-                "stars": 573,
+                "stars": 574,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:26:29.184Z",
+    "last_updated": "2026-10-11T14:53:20.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

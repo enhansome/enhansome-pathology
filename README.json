@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T21:03:25Z",
-                "open_issues": 164,
+                "last_commit": "2026-10-12T14:45:52Z",
+                "open_issues": 163,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 470,
@@ -494,11 +494,11 @@
                 "id": 930598649,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:43:04Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-12T12:51:52Z",
+                "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1746,
+                "stars": 1747,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1276,
+                "stars": 1279,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 749,
+                "stars": 751,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1797,7 +1797,7 @@
                 "open_issues": 40,
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 363,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1991,8 +1991,8 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T14:04:23Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-12T16:38:36Z",
+                "open_issues": 71,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 169,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:53:20.760Z",
+    "last_updated": "2026-10-12T17:49:32.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

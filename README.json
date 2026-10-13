@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T19:00:59Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-12T18:21:53Z",
+                "open_issues": 14,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 558,
@@ -666,7 +666,7 @@
                 "open_issues": 10,
                 "owner": "Sanofi-Public",
                 "repo": "enact-pipeline",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1747,
+                "stars": 1749,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1279,
+                "stars": 1280,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 751,
+                "stars": 752,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -883,7 +883,7 @@
                 "open_issues": 21,
                 "owner": "TIO-IKIM",
                 "repo": "CellViT",
-                "stars": 399,
+                "stars": 400,
                 "topics": [
                   "ai",
                   "cell",
@@ -1991,8 +1991,8 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T16:38:36Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-12T18:31:18Z",
+                "open_issues": 70,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
                 "stars": 169,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:49:32.906Z",
+    "last_updated": "2026-10-13T15:54:31.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

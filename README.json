@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T10:43:26Z",
-                "open_issues": 15,
+                "open_issues": 17,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 560,
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "format-reader",
                   "image",
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1751,
+                "stars": 1752,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -2019,7 +2019,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause-Clear",
                 "last_commit": "2026-08-21T21:35:41Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "choosehappy",
                 "repo": "QuickAnnotator",
                 "stars": 93,
@@ -2467,7 +2467,7 @@
                 "open_issues": 0,
                 "owner": "MatousE",
                 "repo": "rot-invariance-analysis",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:09:00.018Z",
+    "last_updated": "2026-10-18T12:35:14.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
@@ -2551,7 +2551,7 @@
       "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 136,
+      "stars": 137,
       "topics": [
         "awesome",
         "awesome-list",

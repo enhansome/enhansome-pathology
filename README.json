@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T18:43:09Z",
-                "open_issues": 165,
+                "last_commit": "2026-10-19T15:03:04Z",
+                "open_issues": 166,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 470,
@@ -498,7 +498,7 @@
                 "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -526,7 +526,7 @@
                 "open_issues": 52,
                 "owner": "Dana-Farber-AIOS",
                 "repo": "pathml",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "biomedical-image-processing",
                   "computational-pathology",
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1752,
+                "stars": 1753,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 752,
+                "stars": 753,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 790,
+                "stars": 791,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1995,7 +1995,7 @@
                 "open_issues": 78,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "dicomweb",
                   "digital-pathology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:35:14.508Z",
+    "last_updated": "2026-10-19T15:33:09.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

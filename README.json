@@ -128,7 +128,7 @@
                 "open_issues": 28,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -300,8 +300,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "cuCIM - RAPIDS GPU-accelerated image processing library",
-                "homepage": "https://docs.rapids.ai/api/cucim/stable/",
+                "description": "NVIDIA cuCIM - GPU-accelerated image processing library",
+                "homepage": "https://docs.nvidia.com/cucim",
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
@@ -340,7 +340,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-20T09:27:04Z",
-                "open_issues": 162,
+                "open_issues": 163,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 433,
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1755,
+                "stars": 1758,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -1991,11 +1991,11 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T13:01:00Z",
+                "last_commit": "2026-10-21T12:58:29Z",
                 "open_issues": 78,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
-                "stars": 171,
+                "stars": 172,
                 "topics": [
                   "dicomweb",
                   "digital-pathology",
@@ -2039,8 +2039,8 @@
                 "id": 231127262,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:19:17Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-20T14:17:37Z",
+                "open_issues": 57,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
                 "stars": 80,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:31:52.683Z",
+    "last_updated": "2026-10-21T13:43:19.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
@@ -2551,7 +2551,7 @@
       "open_issues": 2,
       "owner": "open-pathology",
       "repo": "awesome-pathology",
-      "stars": 137,
+      "stars": 138,
       "topics": [
         "awesome",
         "awesome-list",

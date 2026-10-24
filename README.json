@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T13:14:23Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-23T15:57:06Z",
+                "open_issues": 17,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 561,
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T19:04:04Z",
-                "open_issues": 170,
+                "last_commit": "2026-10-23T20:54:23Z",
+                "open_issues": 169,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 470,
@@ -619,7 +619,7 @@
                 "open_issues": 1,
                 "owner": "DearCaat",
                 "repo": "MHIM-MIL",
-                "stars": 98,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1758,
+                "stars": 1760,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -1191,7 +1191,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-10-15T14:24:20Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "mahmoodlab",
                 "repo": "TANGLE",
                 "stars": 118,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:20:55.672Z",
+    "last_updated": "2026-10-24T12:38:43.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

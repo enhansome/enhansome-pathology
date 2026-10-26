@@ -340,7 +340,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-22T11:07:51Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 433,
@@ -440,7 +440,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-01T16:22:41Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "glencoesoftware",
                 "repo": "NGFF-Converter",
                 "stars": 40,
@@ -498,7 +498,7 @@
                 "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 648,
+                "stars": 647,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -619,7 +619,7 @@
                 "open_issues": 1,
                 "owner": "DearCaat",
                 "repo": "MHIM-MIL",
-                "stars": 99,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1760,
+                "stars": 1761,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1285,
+                "stars": 1286,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 496,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1009,7 +1009,7 @@
                 "open_issues": 14,
                 "owner": "EIDOSLAB",
                 "repo": "torchstain",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1069,7 +1069,7 @@
                 "open_issues": 1,
                 "owner": "mahmoodlab",
                 "repo": "PANTHER",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "histology",
                   "mixture-model",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 794,
+                "stars": 793,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1818,7 +1818,7 @@
                 "open_issues": 4,
                 "owner": "lilab-stanford",
                 "repo": "MUSK",
-                "stars": 248,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 445,
+                "stars": 446,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2258,7 +2258,7 @@
                 "open_issues": 9,
                 "owner": "pathdata",
                 "repo": "UNMaSk",
-                "stars": 11,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:09:32.525Z",
+    "last_updated": "2026-10-26T15:08:25.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

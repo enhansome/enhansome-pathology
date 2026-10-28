@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T07:53:57Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 561,
@@ -107,7 +107,7 @@
                 "open_issues": 13,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 672,
+                "stars": 671,
                 "topics": [
                   "format-reader",
                   "image",
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T13:09:45Z",
-                "open_issues": 168,
+                "last_commit": "2026-10-27T21:57:14Z",
+                "open_issues": 174,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 470,
@@ -343,7 +343,7 @@
                 "open_issues": 164,
                 "owner": "ome",
                 "repo": "bioformats",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "bio-formats",
                   "format-converter",
@@ -495,10 +495,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T12:51:52Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 755,
+                "stars": 756,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1194,7 +1194,7 @@
                 "open_issues": 6,
                 "owner": "mahmoodlab",
                 "repo": "TANGLE",
-                "stars": 118,
+                "stars": 119,
                 "topics": [
                   "contrastive-learning",
                   "histology-transcriptomics",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 794,
+                "stars": 795,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1675,7 +1675,7 @@
                 "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 643,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1839,7 +1839,7 @@
                 "open_issues": 8,
                 "owner": "openmedlab",
                 "repo": "PathoDuet",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1857,7 +1857,7 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2024-01-29T22:35:32Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "owkin",
                 "repo": "HistoSSLscaling",
                 "stars": 169,
@@ -1991,7 +1991,7 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:12:56Z",
+                "last_commit": "2026-10-28T13:34:39Z",
                 "open_issues": 78,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
@@ -2039,8 +2039,8 @@
                 "id": 231127262,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T14:17:37Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-27T20:49:51Z",
+                "open_issues": 56,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
                 "stars": 80,
@@ -2185,7 +2185,7 @@
                 "open_issues": 1,
                 "owner": "masih4",
                 "repo": "CryoNuSeg",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:23:33.578Z",
+    "last_updated": "2026-10-28T15:03:22.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

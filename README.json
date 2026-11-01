@@ -128,7 +128,7 @@
                 "open_issues": 28,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 130,
+                "stars": 131,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -305,11 +305,11 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T13:35:18Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-31T20:28:36Z",
+                "open_issues": 167,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -591,7 +591,7 @@
                 "open_issues": 32,
                 "owner": "kaiko-ai",
                 "repo": "eva",
-                "stars": 173,
+                "stars": 175,
                 "topics": [
                   "evaluation-framework",
                   "foundation-models",
@@ -640,7 +640,7 @@
                 "open_issues": 10,
                 "owner": "huangzhii",
                 "repo": "nuclei.io",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "ai",
                   "medical-imaging",
@@ -813,7 +813,7 @@
                 "open_issues": 69,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1286,
+                "stars": 1287,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -1675,7 +1675,7 @@
                 "open_issues": 74,
                 "owner": "prov-gigapath",
                 "repo": "prov-gigapath",
-                "stars": 644,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2112,7 +2112,7 @@
                 "open_issues": 7,
                 "owner": "basveeling",
                 "repo": "pcam",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:29:32.103Z",
+    "last_updated": "2026-11-01T15:01:50.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

@@ -17,11 +17,11 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T23:40:54Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-01T23:58:00Z",
+                "open_issues": 19,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 561,
+                "stars": 562,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -54,7 +54,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T16:28:17Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
                 "stars": 492,
@@ -305,7 +305,7 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T20:28:36Z",
+                "last_commit": "2026-11-01T18:03:51Z",
                 "open_issues": 167,
                 "owner": "rapidsai",
                 "repo": "cucim",
@@ -495,7 +495,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T12:51:52Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
                 "stars": 651,
@@ -746,7 +746,7 @@
                 "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3143,
+                "stars": 3142,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -813,7 +813,7 @@
                 "open_issues": 69,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1287,
+                "stars": 1288,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -979,7 +979,7 @@
                 "open_issues": 13,
                 "owner": "mahmoodlab",
                 "repo": "MCAT",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "early-fusion",
                   "genomics",
@@ -1135,7 +1135,7 @@
                 "open_issues": 2,
                 "owner": "dazhangyu123",
                 "repo": "ACMIL",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "acmil",
                   "bracs",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 797,
+                "stars": 798,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1732,7 +1732,7 @@
                 "open_issues": 16,
                 "owner": "mahmoodlab",
                 "repo": "CONCH",
-                "stars": 539,
+                "stars": 541,
                 "topics": [
                   "bioimage-analysis",
                   "bioimage-informatics",
@@ -2495,7 +2495,7 @@
                 "open_issues": 8,
                 "owner": "maduc7",
                 "repo": "Histopathology-Datasets",
-                "stars": 574,
+                "stars": 575,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:01:50.181Z",
+    "last_updated": "2026-11-02T18:14:56.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

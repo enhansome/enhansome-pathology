@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 563,
+                "stars": 564,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -53,8 +53,8 @@
                 "id": 44324447,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T16:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-05T08:32:44Z",
+                "open_issues": 29,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsTK",
                 "stars": 492,
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T20:34:04Z",
-                "open_issues": 171,
+                "last_commit": "2026-11-05T15:15:14Z",
+                "open_issues": 174,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 472,
@@ -340,7 +340,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-04T09:19:42Z",
-                "open_issues": 161,
+                "open_issues": 163,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 434,
@@ -526,7 +526,7 @@
                 "open_issues": 52,
                 "owner": "Dana-Farber-AIOS",
                 "repo": "pathml",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "biomedical-image-processing",
                   "computational-pathology",
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1764,
+                "stars": 1765,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 756,
+                "stars": 757,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1925,7 +1925,7 @@
                 "open_issues": 0,
                 "owner": "MAGIC-AI4Med",
                 "repo": "KEEP",
-                "stars": 70,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1995,7 +1995,7 @@
                 "open_issues": 78,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "dicomweb",
                   "digital-pathology",
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 447,
+                "stars": 448,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2407,7 +2407,7 @@
                 "open_issues": 1,
                 "owner": "scjjb",
                 "repo": "Ovarian_Features",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:13:37.738Z",
+    "last_updated": "2026-11-05T16:25:37.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

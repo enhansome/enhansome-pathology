@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
-                "stars": 565,
+                "stars": 566,
                 "topics": [
                   "cell-classification",
                   "cell-segmentation",
@@ -107,7 +107,7 @@
                 "open_issues": 13,
                 "owner": "instanseg",
                 "repo": "instanseg",
-                "stars": 252,
+                "stars": 253,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -273,7 +273,7 @@
                 "id": 242422272,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-16T00:33:22Z",
+                "last_commit": "2026-11-08T18:28:58Z",
                 "open_issues": 2,
                 "owner": "cgohlke",
                 "repo": "tifffile",
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T21:06:57Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-09T18:26:36Z",
+                "open_issues": 189,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 474,
@@ -498,7 +498,7 @@
                 "open_issues": 45,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
-                "stars": 653,
+                "stars": 655,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -526,7 +526,7 @@
                 "open_issues": 52,
                 "owner": "Dana-Farber-AIOS",
                 "repo": "pathml",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "biomedical-image-processing",
                   "computational-pathology",
@@ -687,7 +687,7 @@
                 "open_issues": 0,
                 "owner": "NKI-AI",
                 "repo": "dlup",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -746,7 +746,7 @@
                 "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3142,
+                "stars": 3141,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1767,
+                "stars": 1769,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 69,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1291,
+                "stars": 1292,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -862,7 +862,7 @@
                 "open_issues": 26,
                 "owner": "szc19990412",
                 "repo": "TransMIL",
-                "stars": 495,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1135,7 +1135,7 @@
                 "open_issues": 2,
                 "owner": "dazhangyu123",
                 "repo": "ACMIL",
-                "stars": 139,
+                "stars": 138,
                 "topics": [
                   "acmil",
                   "bracs",
@@ -1283,7 +1283,7 @@
                 "open_issues": 2,
                 "owner": "marrlab",
                 "repo": "HistoGPT",
-                "stars": 102,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1431,7 +1431,7 @@
                 "open_issues": 0,
                 "owner": "jafarinia",
                 "repo": "snuffy",
-                "stars": 58,
+                "stars": 57,
                 "topics": [
                   "deep-le",
                   "deep-learning",
@@ -1636,7 +1636,7 @@
                 "open_issues": 32,
                 "owner": "mahmoodlab",
                 "repo": "UNI",
-                "stars": 798,
+                "stars": 799,
                 "topics": [
                   "computational-pathology",
                   "digital-pathology",
@@ -1797,7 +1797,7 @@
                 "open_issues": 40,
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 363,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1860,7 +1860,7 @@
                 "open_issues": 3,
                 "owner": "owkin",
                 "repo": "HistoSSLscaling",
-                "stars": 169,
+                "stars": 168,
                 "topics": [
                   "computational-pathology"
                 ]
@@ -2039,8 +2039,8 @@
                 "id": 231127262,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:55:51Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-09T17:01:10Z",
+                "open_issues": 55,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
                 "stars": 80,
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:06:44.609Z",
+    "last_updated": "2026-11-09T18:42:36.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

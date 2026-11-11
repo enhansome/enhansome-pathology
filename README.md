@@ -30,7 +30,7 @@
 
 * [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) ⭐ 568 | 🐛 17 | 🌐 Python | 📅 2026-11-10 - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 * [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) ⭐ 493 | 🐛 29 | 🌐 Python | 📅 2026-11-05 - Toolkit for the analysis of digital pathology images.
-* [HistoQC](https://github.com/choosehappy/HistoQC/) ⭐ 333 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-16 - Quality control tools for digital pathology.
+* [HistoQC](https://github.com/choosehappy/HistoQC/) ⭐ 334 | 🐛 72 | 🌐 JavaScript | 📅 2026-09-16 - Quality control tools for digital pathology.
 * [InstanSeg](https://github.com/instanseg/instanseg/) ⭐ 253 | 🐛 13 | 🌐 Python | 📅 2026-09-29 - Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.
 * [GrandQC](https://github.com/cpath-ukk/grandqc/) ⭐ 132 | 🐛 28 | 🌐 Python | 📅 2025-12-27 - A comprehensive solution to quality control problem in digital pathology.
 * [PyHIST](https://github.com/manuel-munoz-aguirre/PyHIST/) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2023-04-02 - Histological image segmentation tool.
@@ -42,7 +42,7 @@
 ### Image IO
 
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 674 | 🐛 2 | 🌐 Python | 📅 2026-11-08 - Read and write TIFF-like files using in bioimaging.
-* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 474 | 🐛 193 | 🌐 Jupyter Notebook | 📅 2026-11-10 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
+* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 475 | 🐛 198 | 🌐 Jupyter Notebook | 📅 2026-11-11 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 * [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 435 | 🐛 163 | 🌐 Java | 📅 2026-11-10 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
@@ -53,7 +53,7 @@
 
 ### Machine Learning
 
-* [Trident](https://github.com/mahmoodlab/TRIDENT/) ⭐ 656 | 🐛 45 | 🌐 Python | 📅 2026-10-12 - Toolkit for large-scale WSI processing.
+* [Trident](https://github.com/mahmoodlab/TRIDENT/) ⭐ 657 | 🐛 45 | 🌐 Python | 📅 2026-10-12 - Toolkit for large-scale WSI processing.
 * [PathML](https://github.com/Dana-Farber-AIOS/pathml/) ⭐ 470 | 🐛 52 | 🌐 Python | 📅 2026-08-14 - Tools for computational pathology.
 * [histocartography](https://github.com/BiomedSciAI/histocartography/) ⭐ 275 | 🐛 23 | 🌐 Python | 📅 2023-12-23 - Library designed to facilitate the development of graph-based computational pathology pipelines.
 * [eva](https://github.com/kaiko-ai/eva/) ⭐ 175 | 🐛 32 | 🌐 Python | 📅 2026-09-02 - Evaluation framework for oncology foundation models.
@@ -67,8 +67,8 @@
 ### Model
 
 * [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⚠️ Archived - Vision Transformer that can process gigapixel images in an end-to-end manner.
-* [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,770 | 🐛 50 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
-* [StarDist](https://github.com/stardist/stardist/) ⭐ 1,293 | 🐛 69 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
+* [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,773 | 🐛 50 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
+* [StarDist](https://github.com/stardist/stardist/) ⭐ 1,293 | 🐛 70 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
 * [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 758 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 * [TransMIL](https://github.com/szc19990412/TransMIL/) ⭐ 494 | 🐛 26 | 🌐 Python | 📅 2024-05-03 - Transformer based correlated multiple instance learning for WSI classification.
 * [CellViT](https://github.com/TIO-IKIM/CellViT/) ⭐ 400 | 🐛 21 | 🌐 Python | 📅 2025-07-23 - Vision transformers for precise cell segmentation and classification.
@@ -102,8 +102,8 @@
 
 ### Foundation Model
 
-* [UNI](https://github.com/mahmoodlab/UNI/) ⭐ 799 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-03-26 - General-purpose foundation model for computational pathology.
-* [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) ⭐ 645 | 🐛 74 | 🌐 Python | 📅 2026-08-07 - A whole-slide foundation model for digital pathology from real-world data.
+* [UNI](https://github.com/mahmoodlab/UNI/) ⭐ 800 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2025-03-26 - General-purpose foundation model for computational pathology.
+* [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) ⭐ 646 | 🐛 74 | 🌐 Python | 📅 2026-08-07 - A whole-slide foundation model for digital pathology from real-world data.
 * [HIPT](https://github.com/mahmoodlab/HIPT/) ⭐ 621 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2024-03-19 - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 * [CONCH](https://github.com/mahmoodlab/CONCH/) ⭐ 540 | 🐛 16 | 🌐 Python | 📅 2025-03-26 - Vision-language foundation model for computational pathology.
 * [TITAN](https://github.com/mahmoodlab/TITAN/) ⭐ 377 | 🐛 6 | 🌐 Python | 📅 2025-12-13 - Multimodal whole slide foundation model for pathology.
@@ -114,7 +114,7 @@
 * [H-optimus](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0/) ⭐ 111 | 🐛 5 | 📅 2024-11-21 - Foundation model for histology.
 * [Hibou](https://github.com/HistAI/hibou/) ⭐ 82 | 🐛 1 | 🌐 Python | 📅 2024-10-23 - A family of foundational vision transformers for pathology.
 * [KEEP](https://github.com/MAGIC-AI4Med/KEEP/) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-04-17 - A Knowledge-enhanced pathology vision-language foundation model for cancer diagnosis.
-* [VIM4Path](https://github.com/AtlasAnalyticsLab/Vim4Path/) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2025-07-23 - Self-supervised vision mamba for WSIs.
+* [VIM4Path](https://github.com/AtlasAnalyticsLab/Vim4Path/) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2025-07-23 - Self-supervised vision mamba for WSIs.
 * [ROAM](https://github.com/whiteyunjie/ROAM/) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2024-12-11 - A transformer-based weakly supervised computational pathology method for clinical-grade diagnosis and molecular state revelation of gliomas.
 * [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224/) - Multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs.
 * [PathDino](https://kimialabmayo.github.io/PathDino-Page/) - Rotation-agnostic image representation learning for digital pathology.
@@ -128,9 +128,9 @@
 
 ### Viewer
 
-* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 174 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-03 - Interoperable web-based slide microscopy viewer and annotation tool.
+* [slim](https://github.com/ImagingDataCommons/slim/) ⭐ 174 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-11 - Interoperable web-based slide microscopy viewer and annotation tool.
 * [QuickAnnotator](https://github.com/choosehappy/QuickAnnotator/) ⭐ 94 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-28 - Model assisted tool for rapid annotation of WSIs.
-* [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 80 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-09 - Web interface to visualize WSI and manage annotations.
+* [HistomicsUI](https://github.com/DigitalSlideArchive/HistomicsUI/) ⭐ 80 | 🐛 54 | 🌐 JavaScript | 📅 2026-11-11 - Web interface to visualize WSI and manage annotations.
 * [DigiPathAI](https://github.com/haranrk/DigiPathAI/) ⭐ 76 | 🐛 10 | 🌐 JavaScript | 📅 2026-02-20 - Tool to visualize gigantic pathology images and use AI to segment cancer cells and present as an overlay.
 * [ASAP](https://computationalpathologygroup.github.io/ASAP/) - Desktop application for visualizing, annotating and automatically analyzing WSIs.
 * [Cytomine](https://doc.cytomine.org/) - Collaborative analysis of WSIs.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

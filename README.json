@@ -128,7 +128,7 @@
                 "open_issues": 28,
                 "owner": "cpath-ukk",
                 "repo": "grandqc",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -305,8 +305,8 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T16:07:29Z",
-                "open_issues": 198,
+                "last_commit": "2026-11-14T01:17:20Z",
+                "open_issues": 193,
                 "owner": "rapidsai",
                 "repo": "cucim",
                 "stars": 475,
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1772,
+                "stars": 1773,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -2039,7 +2039,7 @@
                 "id": 231127262,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T14:50:44Z",
+                "last_commit": "2026-11-13T17:36:44Z",
                 "open_issues": 55,
                 "owner": "DigitalSlideArchive",
                 "repo": "HistomicsUI",
@@ -2139,7 +2139,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:14:24.406Z",
+    "last_updated": "2026-11-14T14:59:38.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

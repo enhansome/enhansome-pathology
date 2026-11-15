@@ -86,7 +86,7 @@
                 "open_issues": 70,
                 "owner": "choosehappy",
                 "repo": "HistoQC",
-                "stars": 334,
+                "stars": 335,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -277,7 +277,7 @@
                 "open_issues": 2,
                 "owner": "cgohlke",
                 "repo": "tifffile",
-                "stars": 674,
+                "stars": 675,
                 "topics": [
                   "format-reader",
                   "image",
@@ -309,7 +309,7 @@
                 "open_issues": 193,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -340,7 +340,7 @@
                 "language": "Java",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-11T19:59:17Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "ome",
                 "repo": "bioformats",
                 "stars": 435,
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -813,7 +813,7 @@
                 "open_issues": 70,
                 "owner": "stardist",
                 "repo": "stardist",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "bioimage-analysis",
                   "cell-segmentation",
@@ -841,7 +841,7 @@
                 "open_issues": 68,
                 "owner": "vqdang",
                 "repo": "hover_net",
-                "stars": 758,
+                "stars": 759,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -1797,7 +1797,7 @@
                 "open_issues": 40,
                 "owner": "Xiyue-Wang",
                 "repo": "TransPath",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:58.418Z"
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:59:38.406Z",
+    "last_updated": "2026-11-15T15:37:15.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

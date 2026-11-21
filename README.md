@@ -42,8 +42,8 @@
 ### Image IO
 
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 675 | 🐛 2 | 🌐 Python | 📅 2026-11-17 - Read and write TIFF-like files using in bioimaging.
-* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 475 | 🐛 189 | 🌐 Jupyter Notebook | 📅 2026-11-20 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
-* [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 436 | 🐛 166 | 🌐 Java | 📅 2026-11-20 - Java software tool for reading and writing microscopy image using standardized, open formats.
+* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 475 | 🐛 189 | 🌐 Jupyter Notebook | 📅 2026-11-21 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
+* [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 436 | 🐛 167 | 🌐 Java | 📅 2026-11-20 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
 * [NGFF-Converter](https://github.com/glencoesoftware/NGFF-Converter/) ⭐ 40 | 🐛 8 | 🌐 Java | 📅 2026-10-28 - GUI application for conversion of bioimage formats into OME-NGFF or OME-TIFF.
@@ -67,7 +67,7 @@
 ### Model
 
 * [LongViT](https://github.com/microsoft/torchscale/blob/main/examples/longvit/) ⚠️ Archived - Vision Transformer that can process gigapixel images in an end-to-end manner.
-* [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,776 | 🐛 50 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
+* [CLAM](https://github.com/mahmoodlab/CLAM/) ⭐ 1,777 | 🐛 50 | 🌐 Python | 📅 2025-04-14 - Data-efficient and weakly supervised computational pathology on WSI.
 * [StarDist](https://github.com/stardist/stardist/) ⭐ 1,297 | 🐛 70 | 🌐 Python | 📅 2026-02-14 - Object detection with star-convex shapes.
 * [HoVer-Net](https://github.com/vqdang/hover_net/) ⭐ 759 | 🐛 68 | 🌐 Python | 📅 2023-10-27 - Simultaneous segmentation and classification of nuclei in multi-tissue histology images.
 * [TransMIL](https://github.com/szc19990412/TransMIL/) ⭐ 496 | 🐛 26 | 🌐 Python | 📅 2024-05-03 - Transformer based correlated multiple instance learning for WSI classification.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

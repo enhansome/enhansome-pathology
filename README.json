@@ -305,7 +305,7 @@
                 "id": 356356336,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T14:24:57Z",
+                "last_commit": "2026-11-22T04:35:28Z",
                 "open_issues": 189,
                 "owner": "rapidsai",
                 "repo": "cucim",
@@ -1769,7 +1769,7 @@
                 "open_issues": 6,
                 "owner": "mahmoodlab",
                 "repo": "TITAN",
-                "stars": 378,
+                "stars": 379,
                 "topics": [
                   "computational-pathology",
                   "histopathology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:05:58.081Z",
+    "last_updated": "2026-11-22T16:13:10.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

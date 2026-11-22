@@ -42,7 +42,7 @@
 ### Image IO
 
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 675 | 🐛 2 | 🌐 Python | 📅 2026-11-17 - Read and write TIFF-like files using in bioimaging.
-* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 475 | 🐛 189 | 🌐 Jupyter Notebook | 📅 2026-11-21 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
+* [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 475 | 🐛 189 | 🌐 Jupyter Notebook | 📅 2026-11-22 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 * [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 436 | 🐛 167 | 🌐 Java | 📅 2026-11-20 - Java software tool for reading and writing microscopy image using standardized, open formats.
 * [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
@@ -106,7 +106,7 @@
 * [Prov-GigaPath](https://github.com/prov-gigapath/prov-gigapath/) ⭐ 646 | 🐛 74 | 🌐 Python | 📅 2026-08-07 - A whole-slide foundation model for digital pathology from real-world data.
 * [HIPT](https://github.com/mahmoodlab/HIPT/) ⭐ 621 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2024-03-19 - Scaling vision transformers to gigapixel images via hierarchical self-supervised learning.
 * [CONCH](https://github.com/mahmoodlab/CONCH/) ⭐ 541 | 🐛 16 | 🌐 Python | 📅 2025-03-26 - Vision-language foundation model for computational pathology.
-* [TITAN](https://github.com/mahmoodlab/TITAN/) ⭐ 378 | 🐛 6 | 🌐 Python | 📅 2025-12-13 - Multimodal whole slide foundation model for pathology.
+* [TITAN](https://github.com/mahmoodlab/TITAN/) ⭐ 379 | 🐛 6 | 🌐 Python | 📅 2025-12-13 - Multimodal whole slide foundation model for pathology.
 * [TransPath](https://github.com/Xiyue-Wang/TransPath/) ⭐ 364 | 🐛 40 | 🌐 Python | 📅 2025-03-29 - Transformer-based unsupervised contrastive learning for histopathological image classification.
 * [MUSK](https://github.com/lilab-stanford/MUSK/) ⭐ 251 | 🐛 5 | 🌐 Python | 📅 2025-10-26 - A vision-language foundation model for precision oncology.
 * [PathoDuet](https://github.com/openmedlab/PathoDuet/) ⭐ 227 | 🐛 8 | 🌐 Python | 📅 2024-06-24 - Foundation models for pathological slide analysis of H\&E and IHC stains.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

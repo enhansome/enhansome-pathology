@@ -309,7 +309,7 @@
                 "open_issues": 170,
                 "owner": "rapidsai",
                 "repo": "cucim",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "computer-vision",
                   "cuda",
@@ -494,7 +494,7 @@
                 "id": 930598649,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T14:19:41Z",
+                "last_commit": "2026-11-26T16:22:12Z",
                 "open_issues": 21,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
@@ -663,7 +663,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-10T16:49:37Z",
-                "open_issues": 9,
+                "open_issues": 6,
                 "owner": "Sanofi-Public",
                 "repo": "enact-pipeline",
                 "stars": 83,
@@ -776,7 +776,7 @@
                 "open_issues": 50,
                 "owner": "mahmoodlab",
                 "repo": "CLAM",
-                "stars": 1778,
+                "stars": 1779,
                 "topics": [
                   "bioimage-informatics",
                   "camelyon16",
@@ -1991,7 +1991,7 @@
                 "id": 335130719,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T23:03:06Z",
+                "last_commit": "2026-11-26T18:08:12Z",
                 "open_issues": 75,
                 "owner": "ImagingDataCommons",
                 "repo": "slim",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:37:15.265Z",
+    "last_updated": "2026-11-26T18:22:50.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",

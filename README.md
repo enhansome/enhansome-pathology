@@ -28,7 +28,7 @@
 
 ### Image Analysis
 
-* [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) ⭐ 568 | 🐛 17 | 🌐 Python | 📅 2026-11-27 - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
+* [TIA Toolbox](https://github.com/TissueImageAnalytics/tiatoolbox/) ⭐ 568 | 🐛 15 | 🌐 Python | 📅 2026-11-28 - Computational pathology toolbox that provides an end-to-end API for pathology image analysis.
 * [HistomicsTK](https://github.com/DigitalSlideArchive/HistomicsTK/) ⭐ 492 | 🐛 30 | 🌐 Python | 📅 2026-11-19 - Toolkit for the analysis of digital pathology images.
 * [HistoQC](https://github.com/choosehappy/HistoQC/) ⭐ 336 | 🐛 73 | 🌐 JavaScript | 📅 2026-11-17 - Quality control tools for digital pathology.
 * [InstanSeg](https://github.com/instanseg/instanseg/) ⭐ 254 | 🐛 13 | 🌐 Python | 📅 2026-09-29 - Cell and nucleus segmentation pipeline for fluorescence and brightfield microscopy images.
@@ -44,7 +44,7 @@
 * [tifffile](https://github.com/cgohlke/tifffile/) ⭐ 678 | 🐛 2 | 🌐 Python | 📅 2026-11-27 - Read and write TIFF-like files using in bioimaging.
 * [cuCIM](https://github.com/rapidsai/cucim/) ⭐ 476 | 🐛 170 | 🌐 Jupyter Notebook | 📅 2026-11-25 - NVIDIA's accelerated computer vision and image processing software library for multidimensional images.
 * [Bio-Formats](https://github.com/ome/bioformats/) ⭐ 436 | 🐛 167 | 🌐 Java | 📅 2026-11-20 - Java software tool for reading and writing microscopy image using standardized, open formats.
-* [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 119 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
+* [WholeSlideData](https://github.com/DIAGNijmegen/pathology-whole-slide-data/) ⭐ 120 | 🐛 6 | 🌐 Python | 📅 2025-11-08 - Batch iterator that enables fast, efficient and easy patch sampling.
 * [compay-syntax](https://github.com/jgamper/compay-syntax/) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2022-11-22 - Tissue mask and tiling pipeline.
 * [NGFF-Converter](https://github.com/glencoesoftware/NGFF-Converter/) ⭐ 40 | 🐛 8 | 🌐 Java | 📅 2026-10-28 - GUI application for conversion of bioimage formats into OME-NGFF or OME-TIFF.
 * [svg2svs](https://github.com/Ellogon/svg2svs/) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2021-05-07 - Generate checkerboard and build multi-layer pyramidal SVS files from SVG images.
@@ -53,7 +53,7 @@
 
 ### Machine Learning
 
-* [Trident](https://github.com/mahmoodlab/TRIDENT/) ⭐ 666 | 🐛 21 | 🌐 Python | 📅 2026-11-26 - Toolkit for large-scale WSI processing.
+* [Trident](https://github.com/mahmoodlab/TRIDENT/) ⭐ 666 | 🐛 22 | 🌐 Python | 📅 2026-11-26 - Toolkit for large-scale WSI processing.
 * [PathML](https://github.com/Dana-Farber-AIOS/pathml/) ⭐ 469 | 🐛 52 | 🌐 Python | 📅 2026-08-14 - Tools for computational pathology.
 * [histocartography](https://github.com/BiomedSciAI/histocartography/) ⭐ 276 | 🐛 23 | 🌐 Python | 📅 2023-12-23 - Library designed to facilitate the development of graph-based computational pathology pipelines.
 * [eva](https://github.com/kaiko-ai/eva/) ⭐ 176 | 🐛 33 | 🌐 Python | 📅 2026-09-02 - Evaluation framework for oncology foundation models.
@@ -183,7 +183,7 @@
 ### Datasets
 
 * [PCAM](https://github.com/basveeling/pcam/) ⭐ 533 | 🐛 7 | 🌐 Python | 📅 2024-01-31 - PatchCamelyon provides a new benchmark for machine learning models akin to CIFAR-10 and MNIST.
-* [HEST](https://github.com/mahmoodlab/hest/) ⭐ 452 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-04-16 - Bringing spatial transcriptomics and histopathology together.
+* [HEST](https://github.com/mahmoodlab/hest/) ⭐ 453 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2026-04-16 - Bringing spatial transcriptomics and histopathology together.
 * [LC25000](https://github.com/tampapath/lung_colon_image_set/) ⭐ 66 | 🐛 9 | 📅 2020-09-04 - Lung and colon cancer histopathological image dataset.
 * [CryoNuSeg](https://github.com/masih4/CryoNuSeg/) ⭐ 46 | 🐛 1 | 🌐 MATLAB | 📅 2023-02-08 - Nuclei segmentation of cryosectioned H\&E-stained histological images.
 * [H2T](https://github.com/vqdang/H2T/) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2023-02-16 - Handcrafted Histological Transformer for unsupervised representation of WSIs.
@@ -231,4 +231,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

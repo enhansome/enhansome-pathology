@@ -17,8 +17,8 @@
                 "id": 267705904,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T14:36:27Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-28T11:14:32Z",
+                "open_issues": 15,
                 "owner": "TissueImageAnalytics",
                 "repo": "tiatoolbox",
                 "stars": 568,
@@ -375,7 +375,7 @@
                 "open_issues": 6,
                 "owner": "DIAGNijmegen",
                 "repo": "pathology-whole-slide-data",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "computational-pathology",
                   "deep-learning",
@@ -495,7 +495,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-26T16:22:12Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "mahmoodlab",
                 "repo": "TRIDENT",
                 "stars": 666,
@@ -746,7 +746,7 @@
                 "open_issues": 41,
                 "owner": "microsoft",
                 "repo": "torchscale",
-                "stars": 3140,
+                "stars": 3139,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -2139,7 +2139,7 @@
                 "open_issues": 27,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -2539,7 +2539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:08:22.148Z",
+    "last_updated": "2026-11-28T16:48:56.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome List of Digital and Computational Pathology Resources",
